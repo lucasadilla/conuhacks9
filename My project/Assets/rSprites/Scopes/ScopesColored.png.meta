@@ -1,0 +1,1905 @@
+fileFormatVersion: 2
+guid: 54a3e2c6c3c15477ba49288330a66e6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -658786152822788753
+    second: ScopesColored_0
+  - first:
+      213: 5522040589537016788
+    second: ScopesColored_1
+  - first:
+      213: -2668205977176922737
+    second: ScopesColored_2
+  - first:
+      213: -6085502477078046915
+    second: ScopesColored_3
+  - first:
+      213: -1176943756085080876
+    second: ScopesColored_4
+  - first:
+      213: -3628061705211427087
+    second: ScopesColored_5
+  - first:
+      213: -1450688437109299033
+    second: ScopesColored_6
+  - first:
+      213: -3037513793023302815
+    second: ScopesColored_7
+  - first:
+      213: -857964867571611292
+    second: ScopesColored_8
+  - first:
+      213: 7973104531001926609
+    second: ScopesColored_9
+  - first:
+      213: -6486729778058286213
+    second: ScopesColored_10
+  - first:
+      213: 1263654162451031505
+    second: ScopesColored_11
+  - first:
+      213: -5615547062386100843
+    second: ScopesColored_12
+  - first:
+      213: -2711780057736014457
+    second: ScopesColored_13
+  - first:
+      213: 8584645171123746406
+    second: ScopesColored_14
+  - first:
+      213: -3339815466424336369
+    second: ScopesColored_15
+  - first:
+      213: 1451382472535979519
+    second: ScopesColored_16
+  - first:
+      213: -272033823303790643
+    second: ScopesColored_17
+  - first:
+      213: -5623647368974272234
+    second: ScopesColored_18
+  - first:
+      213: 6425234369036106537
+    second: ScopesColored_19
+  - first:
+      213: 6771182376655044296
+    second: ScopesColored_20
+  - first:
+      213: -7062749840510858992
+    second: ScopesColored_21
+  - first:
+      213: -7346464847130619023
+    second: ScopesColored_22
+  - first:
+      213: -2689776102567092066
+    second: ScopesColored_23
+  - first:
+      213: 7265182898600913332
+    second: ScopesColored_24
+  - first:
+      213: -1033525040535244034
+    second: ScopesColored_25
+  - first:
+      213: -5758222971882360449
+    second: ScopesColored_26
+  - first:
+      213: -681595620764908891
+    second: ScopesColored_27
+  - first:
+      213: 1812275099911077498
+    second: ScopesColored_28
+  - first:
+      213: -1854234570773981367
+    second: ScopesColored_29
+  - first:
+      213: 6642071777053233941
+    second: ScopesColored_30
+  - first:
+      213: 988973423028707757
+    second: ScopesColored_31
+  - first:
+      213: -8909342264608683774
+    second: ScopesColored_32
+  - first:
+      213: -8781656945346473841
+    second: ScopesColored_33
+  - first:
+      213: -4420128360716777062
+    second: ScopesColored_34
+  - first:
+      213: -6022036581790633137
+    second: ScopesColored_35
+  - first:
+      213: 5818847884869328903
+    second: ScopesColored_36
+  - first:
+      213: 7772342959362200578
+    second: ScopesColored_37
+  - first:
+      213: 71469558558147771
+    second: ScopesColored_38
+  - first:
+      213: 3607873498194246573
+    second: ScopesColored_39
+  - first:
+      213: 5162633214657180689
+    second: ScopesColored_40
+  - first:
+      213: -5817166025847903968
+    second: ScopesColored_41
+  - first:
+      213: -6155740754117971217
+    second: ScopesColored_42
+  - first:
+      213: 1636982715122368831
+    second: ScopesColored_43
+  - first:
+      213: 4408556564594264496
+    second: ScopesColored_44
+  - first:
+      213: -1496525626367141137
+    second: ScopesColored_45
+  - first:
+      213: 1989216884733735006
+    second: ScopesColored_46
+  - first:
+      213: 5622656508226641534
+    second: ScopesColored_47
+  - first:
+      213: -4599383058522892064
+    second: ScopesColored_48
+  - first:
+      213: -2628527307452803916
+    second: ScopesColored_49
+  - first:
+      213: -3245500977692151675
+    second: ScopesColored_50
+  - first:
+      213: 179213402540231987
+    second: ScopesColored_51
+  - first:
+      213: -5085808588646159130
+    second: ScopesColored_52
+  - first:
+      213: -4881866874144777901
+    second: ScopesColored_53
+  - first:
+      213: 6856851483877082037
+    second: ScopesColored_54
+  - first:
+      213: 5288569750368568631
+    second: ScopesColored_55
+  - first:
+      213: -8123049772940184592
+    second: ScopesColored_56
+  - first:
+      213: 560024998787146040
+    second: ScopesColored_57
+  - first:
+      213: -5407298835109915741
+    second: ScopesColored_58
+  - first:
+      213: 1670580447153732896
+    second: ScopesColored_59
+  - first:
+      213: -9053149029550998146
+    second: ScopesColored_60
+  - first:
+      213: -874266835619052510
+    second: ScopesColored_61
+  - first:
+      213: 6023857173837143458
+    second: ScopesColored_62
+  - first:
+      213: -3385709201891953162
+    second: ScopesColored_63
+  - first:
+      213: -3983259279479424490
+    second: ScopesColored_64
+  - first:
+      213: -6072268855086069632
+    second: ScopesColored_65
+  - first:
+      213: -4448620561832068760
+    second: ScopesColored_66
+  - first:
+      213: 8591981900172836762
+    second: ScopesColored_67
+  - first:
+      213: 6374135570565177143
+    second: ScopesColored_68
+  - first:
+      213: -3991586506892747417
+    second: ScopesColored_69
+  - first:
+      213: -2788870448135656328
+    second: ScopesColored_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScopesColored_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 543
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d2d020c758bd6f0800000000000000
+      internalID: -658786152822788753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 543
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db74aeb8aa32ac40800000000000000
+      internalID: 5522040589537016788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 545
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85abceecc0a8fad0800000000000000
+      internalID: -2668205977176922737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 547
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d00e4db3fb8ba0800000000000000
+      internalID: -6085502477078046915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 535
+        width: 52
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc4fe9b3e7aaafe0800000000000000
+      internalID: -1176943756085080876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 534
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6cca5f91986adc0800000000000000
+      internalID: -3628061705211427087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 522
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a865527d8e1edbe0800000000000000
+      internalID: -1450688437109299033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 523
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632f767c4598d5d0800000000000000
+      internalID: -3037513793023302815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 517
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46901a6af75e714f0800000000000000
+      internalID: -857964867571611292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 483
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36d6fd35826ae60800000000000000
+      internalID: 7973104531001926609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 504
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b23e092a18af5a0800000000000000
+      internalID: -6486729778058286213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 493
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d566dff3c6698110800000000000000
+      internalID: 1263654162451031505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 484
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595fcfef2b19112b0800000000000000
+      internalID: -5615547062386100843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 470
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78518a5b762dd5ad0800000000000000
+      internalID: -2711780057736014457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 481
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667a9bbc49c22770800000000000000
+      internalID: 8584645171123746406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 482
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f000c64478796a1d0800000000000000
+      internalID: -3339815466424336369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53cb44ba8542410800000000000000
+      internalID: 1451382472535979519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 452
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0613ddaa893cf0800000000000000
+      internalID: -272033823303790643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 446
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197a36638ac4f1b0800000000000000
+      internalID: -5623647368974272234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b3705cd940b2950800000000000000
+      internalID: 6425234369036106537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb8ed0f7218fd50800000000000000
+      internalID: 6771182376655044296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 401
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01947eaa0721cfd90800000000000000
+      internalID: -7062749840510858992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 413
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17392ef052d1c0a90800000000000000
+      internalID: -7346464847130619023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 404
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e906721c2eefbaad0800000000000000
+      internalID: -2689776102567092066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 411
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a95b8a5d13d460800000000000000
+      internalID: 7265182898600913332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2fc64937e28a1f0800000000000000
+      internalID: -1033525040535244034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 359
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71357727bea610b0800000000000000
+      internalID: -5758222971882360449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 379
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a288d7e46c7a86f0800000000000000
+      internalID: -681595620764908891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 382
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3c7df99e762910800000000000000
+      internalID: 1812275099911077498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 372
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94794c66b7f6446e0800000000000000
+      internalID: -1854234570773981367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 385
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513d7eb07116d2c50800000000000000
+      internalID: 6642071777053233941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 370
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1ade3a61a89bd00800000000000000
+      internalID: 988973423028707757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 364
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20900aff968ab5480800000000000000
+      internalID: -8909342264608683774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 344
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8018411989412680800000000000000
+      internalID: -8781656945346473841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c8ddbcac88a2c0800000000000000
+      internalID: -4420128360716777062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 334
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4336fd82ad6d6ca0800000000000000
+      internalID: -6022036581790633137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 329
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006bab5253b0c050800000000000000
+      internalID: 5818847884869328903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 337
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204da4dedb8ecdb60800000000000000
+      internalID: 7772342959362200578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 331
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4cc125f29edf000800000000000000
+      internalID: 71469558558147771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf96ec4ddb11230800000000000000
+      internalID: 3607873498194246573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 325
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11436415e8b55a740800000000000000
+      internalID: 5162633214657180689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296dd5f156454fa0800000000000000
+      internalID: -5817166025847903968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 303
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2376d066a629aa0800000000000000
+      internalID: -6155740754117971217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 312
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c2563b1bb7b610800000000000000
+      internalID: 1636982715122368831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 307
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98bd486d65e2d30800000000000000
+      internalID: 4408556564594264496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_45
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 300
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1e1b2fd54b3be0800000000000000
+      internalID: -1496525626367141137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5073c3a73e1b9b10800000000000000
+      internalID: 1989216884733735006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 299
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e13eadd40b70e40800000000000000
+      internalID: 5622656508226641534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 283
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81bc21a75bb20c0800000000000000
+      internalID: -4599383058522892064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49cd42758958bd0800000000000000
+      internalID: -2628527307452803916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 270
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f9726e0aa5f2d0800000000000000
+      internalID: -3245500977692151675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 214
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d466dd3a1bc7200800000000000000
+      internalID: 179213402540231987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 235
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec6d1ec8049b69b0800000000000000
+      internalID: -5085808588646159130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 234
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3599ad571ff104cb0800000000000000
+      internalID: -4881866874144777901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_54
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 165
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38a1e681e682f50800000000000000
+      internalID: 6856851483877082037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 182
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735489cfa26c46940800000000000000
+      internalID: 5288569750368568631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 182
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3351fe441254f80800000000000000
+      internalID: -8123049772940184592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 103
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831eb0ee4cb95c700800000000000000
+      internalID: 560024998787146040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 103
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d3eacb5a65f4b0800000000000000
+      internalID: -5407298835109915741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dbf49c0181f2710800000000000000
+      internalID: 1670580447153732896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db0fa5ce0cc5280800000000000000
+      internalID: -9053149029550998146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 102
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248500f1fafdd3f0800000000000000
+      internalID: -874266835619052510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad50401f2a099350800000000000000
+      internalID: 6023857173837143458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5757c4b6b8301d0800000000000000
+      internalID: -3385709201891953162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 85
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab95e1ace98b8c0800000000000000
+      internalID: -3983259279479424490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884de706a7fabba0800000000000000
+      internalID: -6072268855086069632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86930873b235342c0800000000000000
+      internalID: -4448620561832068760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f3364140adc3770800000000000000
+      internalID: 8591981900172836762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 86
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f18b1a78a757850800000000000000
+      internalID: 6374135570565177143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 46
+        width: 63
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5a6668390b98c0800000000000000
+      internalID: -3991586506892747417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScopesColored_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 25
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2a4e7a11fb49d0800000000000000
+      internalID: -2788870448135656328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

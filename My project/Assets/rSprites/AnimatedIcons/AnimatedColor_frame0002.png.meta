@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: 346c35bc7f38e4555b2193faae616c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6425762120144145737
+    second: AnimatedColor_frame0002_0
+  - first:
+      213: 7476574079896552986
+    second: AnimatedColor_frame0002_1
+  - first:
+      213: 6699832190807298941
+    second: AnimatedColor_frame0002_2
+  - first:
+      213: 8914402601024937928
+    second: AnimatedColor_frame0002_3
+  - first:
+      213: -6330864737811532152
+    second: AnimatedColor_frame0002_4
+  - first:
+      213: 2662593442744226062
+    second: AnimatedColor_frame0002_5
+  - first:
+      213: -2844308504333336929
+    second: AnimatedColor_frame0002_6
+  - first:
+      213: -3783700677392076953
+    second: AnimatedColor_frame0002_7
+  - first:
+      213: 3255006663663074866
+    second: AnimatedColor_frame0002_8
+  - first:
+      213: 7629587074040839441
+    second: AnimatedColor_frame0002_9
+  - first:
+      213: 126650998374842557
+    second: AnimatedColor_frame0002_10
+  - first:
+      213: 2026134856538780469
+    second: AnimatedColor_frame0002_11
+  - first:
+      213: 9103191812983470138
+    second: AnimatedColor_frame0002_12
+  - first:
+      213: -912297045612708213
+    second: AnimatedColor_frame0002_13
+  - first:
+      213: -200696108845357504
+    second: AnimatedColor_frame0002_14
+  - first:
+      213: -9127872524775626729
+    second: AnimatedColor_frame0002_15
+  - first:
+      213: 1790019362703184912
+    second: AnimatedColor_frame0002_16
+  - first:
+      213: -1095447537351450986
+    second: AnimatedColor_frame0002_17
+  - first:
+      213: -3847616949720715694
+    second: AnimatedColor_frame0002_18
+  - first:
+      213: 299002359140928869
+    second: AnimatedColor_frame0002_19
+  - first:
+      213: 803405393838959021
+    second: AnimatedColor_frame0002_20
+  - first:
+      213: -6335574439605672925
+    second: AnimatedColor_frame0002_21
+  - first:
+      213: 1650256602049386169
+    second: AnimatedColor_frame0002_22
+  - first:
+      213: -4732248597366140622
+    second: AnimatedColor_frame0002_23
+  - first:
+      213: 632502090088116178
+    second: AnimatedColor_frame0002_24
+  - first:
+      213: -1561995266826040308
+    second: AnimatedColor_frame0002_25
+  - first:
+      213: 4112201460423704891
+    second: AnimatedColor_frame0002_26
+  - first:
+      213: 8923104145823355763
+    second: AnimatedColor_frame0002_27
+  - first:
+      213: -990665201686594530
+    second: AnimatedColor_frame0002_28
+  - first:
+      213: -6530845825782053466
+    second: AnimatedColor_frame0002_29
+  - first:
+      213: -2396671253065086842
+    second: AnimatedColor_frame0002_30
+  - first:
+      213: 4273088768788752089
+    second: AnimatedColor_frame0002_31
+  - first:
+      213: -7218570852592572379
+    second: AnimatedColor_frame0002_32
+  - first:
+      213: 4075844009921856405
+    second: AnimatedColor_frame0002_33
+  - first:
+      213: 6515663443345024996
+    second: AnimatedColor_frame0002_34
+  - first:
+      213: 2586960155525579642
+    second: AnimatedColor_frame0002_35
+  - first:
+      213: -3219508548526520231
+    second: AnimatedColor_frame0002_36
+  - first:
+      213: 2398637791097401796
+    second: AnimatedColor_frame0002_37
+  - first:
+      213: 4018307539397726173
+    second: AnimatedColor_frame0002_38
+  - first:
+      213: -1839011621857403573
+    second: AnimatedColor_frame0002_39
+  - first:
+      213: 6089364931580143859
+    second: AnimatedColor_frame0002_40
+  - first:
+      213: -6660105356121958290
+    second: AnimatedColor_frame0002_41
+  - first:
+      213: 6046775779069804644
+    second: AnimatedColor_frame0002_42
+  - first:
+      213: 5714574845418919293
+    second: AnimatedColor_frame0002_43
+  - first:
+      213: -4554426192435196110
+    second: AnimatedColor_frame0002_44
+  - first:
+      213: -5958831865771800999
+    second: AnimatedColor_frame0002_45
+  - first:
+      213: -2963667135423041872
+    second: AnimatedColor_frame0002_46
+  - first:
+      213: -5124936302108001534
+    second: AnimatedColor_frame0002_47
+  - first:
+      213: 6361267164505352195
+    second: AnimatedColor_frame0002_48
+  - first:
+      213: 7662148192356300045
+    second: AnimatedColor_frame0002_49
+  - first:
+      213: 3330400191903094973
+    second: AnimatedColor_frame0002_50
+  - first:
+      213: 2612230734724896210
+    second: AnimatedColor_frame0002_51
+  - first:
+      213: -395695468140973433
+    second: AnimatedColor_frame0002_52
+  - first:
+      213: -8376413536423404405
+    second: AnimatedColor_frame0002_53
+  - first:
+      213: 7449160269819731958
+    second: AnimatedColor_frame0002_54
+  - first:
+      213: -7501685547214497011
+    second: AnimatedColor_frame0002_55
+  - first:
+      213: 7452718016606751399
+    second: AnimatedColor_frame0002_56
+  - first:
+      213: -1276906875168496240
+    second: AnimatedColor_frame0002_57
+  - first:
+      213: -196219788727521239
+    second: AnimatedColor_frame0002_58
+  - first:
+      213: 2271456234184396953
+    second: AnimatedColor_frame0002_59
+  - first:
+      213: 3067229257210878424
+    second: AnimatedColor_frame0002_60
+  - first:
+      213: 1789161681983993907
+    second: AnimatedColor_frame0002_61
+  - first:
+      213: 5419103270881106736
+    second: AnimatedColor_frame0002_62
+  - first:
+      213: 4936947224899191628
+    second: AnimatedColor_frame0002_63
+  - first:
+      213: -6457341282689447692
+    second: AnimatedColor_frame0002_64
+  - first:
+      213: 519043343750216188
+    second: AnimatedColor_frame0002_65
+  - first:
+      213: 3529313696570615645
+    second: AnimatedColor_frame0002_66
+  - first:
+      213: -6108594583209724886
+    second: AnimatedColor_frame0002_67
+  - first:
+      213: -1328066570184807596
+    second: AnimatedColor_frame0002_68
+  - first:
+      213: 4368937082443717147
+    second: AnimatedColor_frame0002_69
+  - first:
+      213: 5515533663847983251
+    second: AnimatedColor_frame0002_70
+  - first:
+      213: 745164871944377441
+    second: AnimatedColor_frame0002_71
+  - first:
+      213: -7359606092365475563
+    second: AnimatedColor_frame0002_72
+  - first:
+      213: 2148580721402050611
+    second: AnimatedColor_frame0002_73
+  - first:
+      213: 1413244726672858045
+    second: AnimatedColor_frame0002_74
+  - first:
+      213: 8878185782606821148
+    second: AnimatedColor_frame0002_75
+  - first:
+      213: -8021173242034992497
+    second: AnimatedColor_frame0002_76
+  - first:
+      213: -7793310543916245875
+    second: AnimatedColor_frame0002_77
+  - first:
+      213: -4475506865643739458
+    second: AnimatedColor_frame0002_78
+  - first:
+      213: 1244336420619600073
+    second: AnimatedColor_frame0002_79
+  - first:
+      213: 7497332677883006304
+    second: AnimatedColor_frame0002_80
+  - first:
+      213: 1375434960447869825
+    second: AnimatedColor_frame0002_81
+  - first:
+      213: -4942342103136645685
+    second: AnimatedColor_frame0002_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 558
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b5a9956b13d6a0800000000000000
+      internalID: -6425762120144145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 558
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a168029538022c760800000000000000
+      internalID: 7476574079896552986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 556
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73dbcb51e59afc50800000000000000
+      internalID: 6699832190807298941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 556
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfd8e26fe156bb70800000000000000
+      internalID: 8914402601024937928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 571
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88672b530104428a0800000000000000
+      internalID: -6330864737811532152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 554
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01dd0011ae63f420800000000000000
+      internalID: 2662593442744226062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 551
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eb69f2c7cf688d0800000000000000
+      internalID: -2844308504333336929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 551
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe3a3e7489d7bc0800000000000000
+      internalID: -3783700677392076953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 542
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eba29905b1c2d20800000000000000
+      internalID: 3255006663663074866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dbd13450db1e960800000000000000
+      internalID: 7629587074040839441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 549
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c4987964f1c100800000000000000
+      internalID: 126650998374842557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 512
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f707cae64e1c10800000000000000
+      internalID: 2026134856538780469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 512
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38bf1f19b8055e70800000000000000
+      internalID: 9103191812983470138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 515
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ebd9aabaed653f0800000000000000
+      internalID: -912297045612708213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 516
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046287cc3fbf63df0800000000000000
+      internalID: -200696108845357504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 516
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71863bddc48435180800000000000000
+      internalID: -9127872524775626729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 517
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0149efe502d67d810800000000000000
+      internalID: 1790019362703184912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 517
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e171ac4403cc0f0800000000000000
+      internalID: -1095447537351450986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 513
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eef1015c48a9ac0800000000000000
+      internalID: -3847616949720715694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 510
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d499bbf05462400800000000000000
+      internalID: 299002359140928869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 467
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96766f2f4462b00800000000000000
+      internalID: 803405393838959021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 467
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324624f4d948318a0800000000000000
+      internalID: -6335574439605672925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 467
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69569d2a3e6e610800000000000000
+      internalID: 1650256602049386169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 469
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231962529fca35eb0800000000000000
+      internalID: -4732248597366140622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 472
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe46fbc4917c800800000000000000
+      internalID: 632502090088116178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 473
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c0ef3a49da25ae0800000000000000
+      internalID: -1561995266826040308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 473
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31c56dd079711930800000000000000
+      internalID: 4112201460423704891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 477
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373dd99a1fb35db70800000000000000
+      internalID: 8923104145823355763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 479
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c31227f337042f0800000000000000
+      internalID: -990665201686594530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50b67c256cd55a0800000000000000
+      internalID: -6530845825782053466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 428
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6884aa581305dbed0800000000000000
+      internalID: -2396671253065086842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 418
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66d5d689f0d4b30800000000000000
+      internalID: 4273088768788752089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 419
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5282b312e0c72db90800000000000000
+      internalID: -7218570852592572379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 421
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cb43488e409830800000000000000
+      internalID: 4075844009921856405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 436
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7249851694c6a50800000000000000
+      internalID: 6515663443345024996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 436
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73013e1e8ab6e320800000000000000
+      internalID: 2586960155525579642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 442
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584eb568020253d0800000000000000
+      internalID: -3219508548526520231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 443
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1303bcc5ca94120800000000000000
+      internalID: 2398637791097401796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 415
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf431cca65e3c730800000000000000
+      internalID: 4018307539397726173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 399
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ddf556ca48a76e0800000000000000
+      internalID: -1839011621857403573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 399
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f82e867425c18450800000000000000
+      internalID: 6089364931580143859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 409
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689ca1277d8293a0800000000000000
+      internalID: -6660105356121958290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_42
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 397
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46044eba8867ae350800000000000000
+      internalID: 6046775779069804644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 374
+        width: 73
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d3977b8f3e4f40800000000000000
+      internalID: 5714574845418919293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 374
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f4a24228d6bc0c0800000000000000
+      internalID: -4554426192435196110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 376
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c4644df9fd4da0800000000000000
+      internalID: -5958831865771800999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 377
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2c984170fed6d0800000000000000
+      internalID: -2963667135423041872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 377
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b3958169190e8b0800000000000000
+      internalID: -5124936302108001534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 378
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a2bd58c2c74850800000000000000
+      internalID: 6361267164505352195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 374
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057cc56f2b655a60800000000000000
+      internalID: 7662148192356300045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 339
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d64e4455f73e20800000000000000
+      internalID: 3330400191903094973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 367
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d592a65302804420800000000000000
+      internalID: 2612230734724896210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782b9367115328af0800000000000000
+      internalID: -395695468140973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 339
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c95bdc44001cb80800000000000000
+      internalID: -8376413536423404405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffde8d4ccbb06760800000000000000
+      internalID: 7449160269819731958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 323
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b199d8db8a4e790800000000000000
+      internalID: -7501685547214497011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 315
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aacff6cc8f5d6760800000000000000
+      internalID: 7452718016606751399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 315
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095e35e56f3874ee0800000000000000
+      internalID: -1276906875168496240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 273
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9207efa4423e64df0800000000000000
+      internalID: -196219788727521239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99058690965d58f10800000000000000
+      internalID: 2271456234184396953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 268
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d95db032ccf09a20800000000000000
+      internalID: 3067229257210878424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_61
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 268
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387564021164d810800000000000000
+      internalID: 1789161681983993907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 218
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b960696b5843b40800000000000000
+      internalID: 5419103270881106736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4387fe085f838440800000000000000
+      internalID: 4936947224899191628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f884dbd05ae266a0800000000000000
+      internalID: -6457341282689447692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9334fcb23043700800000000000000
+      internalID: 519043343750216188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 187
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d572301ab14aaf030800000000000000
+      internalID: 3529313696570615645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b8ee5799e93ba0800000000000000
+      internalID: -6108594583209724886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 192
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b2016ad72c19de0800000000000000
+      internalID: -1328066570184807596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad61df02591ac30800000000000000
+      internalID: 4368937082443717147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 158
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982e5c05ac1b8c40800000000000000
+      internalID: 5515533663847983251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 158
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641853c08b575a00800000000000000
+      internalID: 745164871944377441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 135
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51151c9704d6dd990800000000000000
+      internalID: -7359606092365475563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 132
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338fb6e48ca41dd10800000000000000
+      internalID: 2148580721402050611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 130
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb970a579adc9310800000000000000
+      internalID: 1413244726672858045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 130
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f33e3ee6a53b70800000000000000
+      internalID: 8878185782606821148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac2a23f611fa090800000000000000
+      internalID: -8021173242034992497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd09dd95998d390800000000000000
+      internalID: -7793310543916245875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 87
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ab7bc73ec3e1c0800000000000000
+      internalID: -4475506865643739458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 87
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0cc1cb165c44110800000000000000
+      internalID: 1244336420619600073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d05241950eb0860800000000000000
+      internalID: 7497332677883006304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18316252fc6861310800000000000000
+      internalID: 1375434960447869825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedColor_frame0002_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4518fa06496bb0800000000000000
+      internalID: -4942342103136645685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

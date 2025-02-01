@@ -1,0 +1,6032 @@
+fileFormatVersion: 2
+guid: 7f6feef77d73641dc9a1f0fd81f4e1c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1348321818383405080
+    second: FPS_UIPack_OriginalColorhighRes_0
+  - first:
+      213: 8491345987304650225
+    second: FPS_UIPack_OriginalColorhighRes_1
+  - first:
+      213: -5572661956676008731
+    second: FPS_UIPack_OriginalColorhighRes_2
+  - first:
+      213: 2360992547294877544
+    second: FPS_UIPack_OriginalColorhighRes_3
+  - first:
+      213: -7240591746751011940
+    second: FPS_UIPack_OriginalColorhighRes_4
+  - first:
+      213: 875186277434620708
+    second: FPS_UIPack_OriginalColorhighRes_5
+  - first:
+      213: 2438009419403695024
+    second: FPS_UIPack_OriginalColorhighRes_6
+  - first:
+      213: 4092281186477795870
+    second: FPS_UIPack_OriginalColorhighRes_7
+  - first:
+      213: 2145846253454883129
+    second: FPS_UIPack_OriginalColorhighRes_8
+  - first:
+      213: 6893351684608635117
+    second: FPS_UIPack_OriginalColorhighRes_9
+  - first:
+      213: -4718635365105107807
+    second: FPS_UIPack_OriginalColorhighRes_10
+  - first:
+      213: -4889896907323157936
+    second: FPS_UIPack_OriginalColorhighRes_11
+  - first:
+      213: -5975428056019506441
+    second: FPS_UIPack_OriginalColorhighRes_12
+  - first:
+      213: -6096062067539594881
+    second: FPS_UIPack_OriginalColorhighRes_13
+  - first:
+      213: 6621384566206169068
+    second: FPS_UIPack_OriginalColorhighRes_14
+  - first:
+      213: -6938915295344327542
+    second: FPS_UIPack_OriginalColorhighRes_15
+  - first:
+      213: -7736382635842943095
+    second: FPS_UIPack_OriginalColorhighRes_16
+  - first:
+      213: -3131182910580001855
+    second: FPS_UIPack_OriginalColorhighRes_17
+  - first:
+      213: 7219346468244546119
+    second: FPS_UIPack_OriginalColorhighRes_18
+  - first:
+      213: -8013748654795809255
+    second: FPS_UIPack_OriginalColorhighRes_19
+  - first:
+      213: 1436099105964988715
+    second: FPS_UIPack_OriginalColorhighRes_20
+  - first:
+      213: -2906024485810980918
+    second: FPS_UIPack_OriginalColorhighRes_21
+  - first:
+      213: -8997201026671777761
+    second: FPS_UIPack_OriginalColorhighRes_22
+  - first:
+      213: -1979598839655007900
+    second: FPS_UIPack_OriginalColorhighRes_23
+  - first:
+      213: -7398857903819639579
+    second: FPS_UIPack_OriginalColorhighRes_24
+  - first:
+      213: 2224520151711382062
+    second: FPS_UIPack_OriginalColorhighRes_25
+  - first:
+      213: -5601319720221624213
+    second: FPS_UIPack_OriginalColorhighRes_26
+  - first:
+      213: 6707688141933823725
+    second: FPS_UIPack_OriginalColorhighRes_27
+  - first:
+      213: 4678588046001656546
+    second: FPS_UIPack_OriginalColorhighRes_28
+  - first:
+      213: 5669247911460219571
+    second: FPS_UIPack_OriginalColorhighRes_29
+  - first:
+      213: 8722185426849188577
+    second: FPS_UIPack_OriginalColorhighRes_30
+  - first:
+      213: 4797522355795058399
+    second: FPS_UIPack_OriginalColorhighRes_31
+  - first:
+      213: -7522399928986883820
+    second: FPS_UIPack_OriginalColorhighRes_32
+  - first:
+      213: -247661284236281535
+    second: FPS_UIPack_OriginalColorhighRes_33
+  - first:
+      213: 2885116267704330600
+    second: FPS_UIPack_OriginalColorhighRes_34
+  - first:
+      213: -8865951028792285044
+    second: FPS_UIPack_OriginalColorhighRes_35
+  - first:
+      213: 285395179308753722
+    second: FPS_UIPack_OriginalColorhighRes_36
+  - first:
+      213: 6260011715965104874
+    second: FPS_UIPack_OriginalColorhighRes_37
+  - first:
+      213: -2782817685129939824
+    second: FPS_UIPack_OriginalColorhighRes_38
+  - first:
+      213: 3776790917670905338
+    second: FPS_UIPack_OriginalColorhighRes_39
+  - first:
+      213: 5815643230556729209
+    second: FPS_UIPack_OriginalColorhighRes_40
+  - first:
+      213: -1860879842447976492
+    second: FPS_UIPack_OriginalColorhighRes_41
+  - first:
+      213: 5059965732649327993
+    second: FPS_UIPack_OriginalColorhighRes_42
+  - first:
+      213: -5239962275819670123
+    second: FPS_UIPack_OriginalColorhighRes_43
+  - first:
+      213: 7928190634779311445
+    second: FPS_UIPack_OriginalColorhighRes_44
+  - first:
+      213: 2825207940379761675
+    second: FPS_UIPack_OriginalColorhighRes_45
+  - first:
+      213: 328891830695153844
+    second: FPS_UIPack_OriginalColorhighRes_46
+  - first:
+      213: 8469888086528849927
+    second: FPS_UIPack_OriginalColorhighRes_47
+  - first:
+      213: 822665251786357036
+    second: FPS_UIPack_OriginalColorhighRes_48
+  - first:
+      213: -6259747791365052535
+    second: FPS_UIPack_OriginalColorhighRes_49
+  - first:
+      213: -7704927268501583053
+    second: FPS_UIPack_OriginalColorhighRes_50
+  - first:
+      213: -4579900432896678394
+    second: FPS_UIPack_OriginalColorhighRes_51
+  - first:
+      213: 1068921774196312510
+    second: FPS_UIPack_OriginalColorhighRes_52
+  - first:
+      213: -6988365348380087882
+    second: FPS_UIPack_OriginalColorhighRes_53
+  - first:
+      213: 5790153088207137903
+    second: FPS_UIPack_OriginalColorhighRes_54
+  - first:
+      213: 6224714005582201143
+    second: FPS_UIPack_OriginalColorhighRes_55
+  - first:
+      213: -749247495300160012
+    second: FPS_UIPack_OriginalColorhighRes_56
+  - first:
+      213: 2950320938879055222
+    second: FPS_UIPack_OriginalColorhighRes_57
+  - first:
+      213: -5232503014226399732
+    second: FPS_UIPack_OriginalColorhighRes_58
+  - first:
+      213: -8024123193984577972
+    second: FPS_UIPack_OriginalColorhighRes_59
+  - first:
+      213: -4914594309742446947
+    second: FPS_UIPack_OriginalColorhighRes_60
+  - first:
+      213: -1318713039556871154
+    second: FPS_UIPack_OriginalColorhighRes_61
+  - first:
+      213: 6411221444674301799
+    second: FPS_UIPack_OriginalColorhighRes_62
+  - first:
+      213: 9020432720888775285
+    second: FPS_UIPack_OriginalColorhighRes_63
+  - first:
+      213: 6397130341327876319
+    second: FPS_UIPack_OriginalColorhighRes_64
+  - first:
+      213: -2860843396069336305
+    second: FPS_UIPack_OriginalColorhighRes_65
+  - first:
+      213: 144031998938918002
+    second: FPS_UIPack_OriginalColorhighRes_66
+  - first:
+      213: 5346236619802382043
+    second: FPS_UIPack_OriginalColorhighRes_67
+  - first:
+      213: 1450655212680478754
+    second: FPS_UIPack_OriginalColorhighRes_68
+  - first:
+      213: 1366880237039597496
+    second: FPS_UIPack_OriginalColorhighRes_69
+  - first:
+      213: -8753757890456978643
+    second: FPS_UIPack_OriginalColorhighRes_70
+  - first:
+      213: 4456161719774644166
+    second: FPS_UIPack_OriginalColorhighRes_71
+  - first:
+      213: 3342651643127672209
+    second: FPS_UIPack_OriginalColorhighRes_72
+  - first:
+      213: 1646564839537250039
+    second: FPS_UIPack_OriginalColorhighRes_73
+  - first:
+      213: -3093615052850466832
+    second: FPS_UIPack_OriginalColorhighRes_74
+  - first:
+      213: -3193711853364024867
+    second: FPS_UIPack_OriginalColorhighRes_75
+  - first:
+      213: 2601013689708485071
+    second: FPS_UIPack_OriginalColorhighRes_76
+  - first:
+      213: 3752099670340630356
+    second: FPS_UIPack_OriginalColorhighRes_77
+  - first:
+      213: -7304308645087963835
+    second: FPS_UIPack_OriginalColorhighRes_78
+  - first:
+      213: 8953052904400931037
+    second: FPS_UIPack_OriginalColorhighRes_79
+  - first:
+      213: -1701628571588139600
+    second: FPS_UIPack_OriginalColorhighRes_80
+  - first:
+      213: 5939729680383362569
+    second: FPS_UIPack_OriginalColorhighRes_81
+  - first:
+      213: 1804088745444957354
+    second: FPS_UIPack_OriginalColorhighRes_82
+  - first:
+      213: 3559508010678732395
+    second: FPS_UIPack_OriginalColorhighRes_83
+  - first:
+      213: 7785587213390288279
+    second: FPS_UIPack_OriginalColorhighRes_84
+  - first:
+      213: 1300209330208156521
+    second: FPS_UIPack_OriginalColorhighRes_85
+  - first:
+      213: -4533459783539880698
+    second: FPS_UIPack_OriginalColorhighRes_86
+  - first:
+      213: 158044314868427895
+    second: FPS_UIPack_OriginalColorhighRes_87
+  - first:
+      213: -8462151927949459508
+    second: FPS_UIPack_OriginalColorhighRes_88
+  - first:
+      213: 8071770070919822577
+    second: FPS_UIPack_OriginalColorhighRes_89
+  - first:
+      213: -3995139019962451034
+    second: FPS_UIPack_OriginalColorhighRes_90
+  - first:
+      213: -3489332966318215396
+    second: FPS_UIPack_OriginalColorhighRes_91
+  - first:
+      213: 2823330806959274827
+    second: FPS_UIPack_OriginalColorhighRes_92
+  - first:
+      213: -7604872852146604320
+    second: FPS_UIPack_OriginalColorhighRes_93
+  - first:
+      213: 1942650227057795706
+    second: FPS_UIPack_OriginalColorhighRes_94
+  - first:
+      213: 1468165197972533287
+    second: FPS_UIPack_OriginalColorhighRes_95
+  - first:
+      213: 1795536457821231405
+    second: FPS_UIPack_OriginalColorhighRes_96
+  - first:
+      213: 7462355371539480575
+    second: FPS_UIPack_OriginalColorhighRes_97
+  - first:
+      213: -7089840882743352249
+    second: FPS_UIPack_OriginalColorhighRes_98
+  - first:
+      213: -225101202997463194
+    second: FPS_UIPack_OriginalColorhighRes_99
+  - first:
+      213: -1571162255309575509
+    second: FPS_UIPack_OriginalColorhighRes_100
+  - first:
+      213: -4800352014306561235
+    second: FPS_UIPack_OriginalColorhighRes_101
+  - first:
+      213: 3456655783093376257
+    second: FPS_UIPack_OriginalColorhighRes_102
+  - first:
+      213: -6096437802181049257
+    second: FPS_UIPack_OriginalColorhighRes_103
+  - first:
+      213: 1567593076627449548
+    second: FPS_UIPack_OriginalColorhighRes_104
+  - first:
+      213: 2150419361165815504
+    second: FPS_UIPack_OriginalColorhighRes_105
+  - first:
+      213: 7272423734464877707
+    second: FPS_UIPack_OriginalColorhighRes_106
+  - first:
+      213: 1324900433653276801
+    second: FPS_UIPack_OriginalColorhighRes_107
+  - first:
+      213: -8004031994207655548
+    second: FPS_UIPack_OriginalColorhighRes_108
+  - first:
+      213: -3937563694311819938
+    second: FPS_UIPack_OriginalColorhighRes_109
+  - first:
+      213: -2006371216266251140
+    second: FPS_UIPack_OriginalColorhighRes_110
+  - first:
+      213: 3207811350800125607
+    second: FPS_UIPack_OriginalColorhighRes_111
+  - first:
+      213: 7500275602363089571
+    second: FPS_UIPack_OriginalColorhighRes_112
+  - first:
+      213: 7651519872396264121
+    second: FPS_UIPack_OriginalColorhighRes_113
+  - first:
+      213: -3435597504729660424
+    second: FPS_UIPack_OriginalColorhighRes_114
+  - first:
+      213: 2080721159793486812
+    second: FPS_UIPack_OriginalColorhighRes_115
+  - first:
+      213: -6155966600517981879
+    second: FPS_UIPack_OriginalColorhighRes_116
+  - first:
+      213: 8791419427949307884
+    second: FPS_UIPack_OriginalColorhighRes_117
+  - first:
+      213: 1085957923548258651
+    second: FPS_UIPack_OriginalColorhighRes_118
+  - first:
+      213: -8865036994612792839
+    second: FPS_UIPack_OriginalColorhighRes_119
+  - first:
+      213: -3500386426967223585
+    second: FPS_UIPack_OriginalColorhighRes_120
+  - first:
+      213: -3871234992645703699
+    second: FPS_UIPack_OriginalColorhighRes_121
+  - first:
+      213: -6109061927460370732
+    second: FPS_UIPack_OriginalColorhighRes_122
+  - first:
+      213: -8350352978487780178
+    second: FPS_UIPack_OriginalColorhighRes_123
+  - first:
+      213: -689795828878554718
+    second: FPS_UIPack_OriginalColorhighRes_124
+  - first:
+      213: 7703143990121240050
+    second: FPS_UIPack_OriginalColorhighRes_125
+  - first:
+      213: 546300666719894327
+    second: FPS_UIPack_OriginalColorhighRes_126
+  - first:
+      213: -2176018285512860700
+    second: FPS_UIPack_OriginalColorhighRes_127
+  - first:
+      213: -8230312700684942348
+    second: FPS_UIPack_OriginalColorhighRes_128
+  - first:
+      213: -106444606228678876
+    second: FPS_UIPack_OriginalColorhighRes_129
+  - first:
+      213: -7898775375154333019
+    second: FPS_UIPack_OriginalColorhighRes_130
+  - first:
+      213: 2845322544308432153
+    second: FPS_UIPack_OriginalColorhighRes_131
+  - first:
+      213: -6167802575441608338
+    second: FPS_UIPack_OriginalColorhighRes_132
+  - first:
+      213: 3380426151643447359
+    second: FPS_UIPack_OriginalColorhighRes_133
+  - first:
+      213: 8193802769188688645
+    second: FPS_UIPack_OriginalColorhighRes_134
+  - first:
+      213: 3668135436924612103
+    second: FPS_UIPack_OriginalColorhighRes_135
+  - first:
+      213: -9020499078562039629
+    second: FPS_UIPack_OriginalColorhighRes_136
+  - first:
+      213: -5192600622691499019
+    second: FPS_UIPack_OriginalColorhighRes_137
+  - first:
+      213: 6322155553878519021
+    second: FPS_UIPack_OriginalColorhighRes_138
+  - first:
+      213: 308221884680693099
+    second: FPS_UIPack_OriginalColorhighRes_139
+  - first:
+      213: 1525454801668145178
+    second: FPS_UIPack_OriginalColorhighRes_140
+  - first:
+      213: 4418114306958866140
+    second: FPS_UIPack_OriginalColorhighRes_141
+  - first:
+      213: 142185469274673485
+    second: FPS_UIPack_OriginalColorhighRes_142
+  - first:
+      213: -817680597426084108
+    second: FPS_UIPack_OriginalColorhighRes_143
+  - first:
+      213: 2720621318721031277
+    second: FPS_UIPack_OriginalColorhighRes_144
+  - first:
+      213: -8945117175627882568
+    second: FPS_UIPack_OriginalColorhighRes_145
+  - first:
+      213: 2270849761285363488
+    second: FPS_UIPack_OriginalColorhighRes_146
+  - first:
+      213: 8131774419534782398
+    second: FPS_UIPack_OriginalColorhighRes_147
+  - first:
+      213: 5246237147751423100
+    second: FPS_UIPack_OriginalColorhighRes_148
+  - first:
+      213: 1525148360589589880
+    second: FPS_UIPack_OriginalColorhighRes_149
+  - first:
+      213: 5543529817718770296
+    second: FPS_UIPack_OriginalColorhighRes_150
+  - first:
+      213: 6681670478854041070
+    second: FPS_UIPack_OriginalColorhighRes_151
+  - first:
+      213: -7058055240142186893
+    second: FPS_UIPack_OriginalColorhighRes_152
+  - first:
+      213: -8277544427341626990
+    second: FPS_UIPack_OriginalColorhighRes_153
+  - first:
+      213: -885173688073496935
+    second: FPS_UIPack_OriginalColorhighRes_154
+  - first:
+      213: -2979882120114210761
+    second: FPS_UIPack_OriginalColorhighRes_155
+  - first:
+      213: 5614720079455358975
+    second: FPS_UIPack_OriginalColorhighRes_156
+  - first:
+      213: 7874672893095406968
+    second: FPS_UIPack_OriginalColorhighRes_157
+  - first:
+      213: -3200404700402419500
+    second: FPS_UIPack_OriginalColorhighRes_158
+  - first:
+      213: 7403257319264827429
+    second: FPS_UIPack_OriginalColorhighRes_159
+  - first:
+      213: 6580600445150945469
+    second: FPS_UIPack_OriginalColorhighRes_160
+  - first:
+      213: -5068682600136703472
+    second: FPS_UIPack_OriginalColorhighRes_161
+  - first:
+      213: 3281021625404466686
+    second: FPS_UIPack_OriginalColorhighRes_162
+  - first:
+      213: -1877096281616762346
+    second: FPS_UIPack_OriginalColorhighRes_163
+  - first:
+      213: 1518334463744689022
+    second: FPS_UIPack_OriginalColorhighRes_164
+  - first:
+      213: -5788285718508762444
+    second: FPS_UIPack_OriginalColorhighRes_165
+  - first:
+      213: 1381992199641283100
+    second: FPS_UIPack_OriginalColorhighRes_166
+  - first:
+      213: -2275422855083749947
+    second: FPS_UIPack_OriginalColorhighRes_167
+  - first:
+      213: -3022773382955200605
+    second: FPS_UIPack_OriginalColorhighRes_168
+  - first:
+      213: 6317795418236780335
+    second: FPS_UIPack_OriginalColorhighRes_169
+  - first:
+      213: -2595220417415173652
+    second: FPS_UIPack_OriginalColorhighRes_170
+  - first:
+      213: 6110721114286692762
+    second: FPS_UIPack_OriginalColorhighRes_171
+  - first:
+      213: -845632024082892048
+    second: FPS_UIPack_OriginalColorhighRes_172
+  - first:
+      213: -392432039635414083
+    second: FPS_UIPack_OriginalColorhighRes_173
+  - first:
+      213: 7029921936150247810
+    second: FPS_UIPack_OriginalColorhighRes_174
+  - first:
+      213: 4722013583042657382
+    second: FPS_UIPack_OriginalColorhighRes_175
+  - first:
+      213: -1826288048856808616
+    second: FPS_UIPack_OriginalColorhighRes_176
+  - first:
+      213: -9202528345672728994
+    second: FPS_UIPack_OriginalColorhighRes_177
+  - first:
+      213: -9181018546972049841
+    second: FPS_UIPack_OriginalColorhighRes_178
+  - first:
+      213: -5228843685318689294
+    second: FPS_UIPack_OriginalColorhighRes_179
+  - first:
+      213: 4562596328579439045
+    second: FPS_UIPack_OriginalColorhighRes_180
+  - first:
+      213: -3181372173756659002
+    second: FPS_UIPack_OriginalColorhighRes_181
+  - first:
+      213: 6842287656508584874
+    second: FPS_UIPack_OriginalColorhighRes_182
+  - first:
+      213: 5351123216654196618
+    second: FPS_UIPack_OriginalColorhighRes_183
+  - first:
+      213: -6922758221005244991
+    second: FPS_UIPack_OriginalColorhighRes_184
+  - first:
+      213: -4999254981789161301
+    second: FPS_UIPack_OriginalColorhighRes_185
+  - first:
+      213: 475158745577144858
+    second: FPS_UIPack_OriginalColorhighRes_186
+  - first:
+      213: 7127526932809082990
+    second: FPS_UIPack_OriginalColorhighRes_187
+  - first:
+      213: -3023638895218380840
+    second: FPS_UIPack_OriginalColorhighRes_188
+  - first:
+      213: 178796439858002832
+    second: FPS_UIPack_OriginalColorhighRes_189
+  - first:
+      213: -4784811451461586684
+    second: FPS_UIPack_OriginalColorhighRes_190
+  - first:
+      213: 1407941927611450517
+    second: FPS_UIPack_OriginalColorhighRes_191
+  - first:
+      213: 7136733717089660152
+    second: FPS_UIPack_OriginalColorhighRes_192
+  - first:
+      213: -3228212683643652111
+    second: FPS_UIPack_OriginalColorhighRes_193
+  - first:
+      213: 3095544658964354458
+    second: FPS_UIPack_OriginalColorhighRes_194
+  - first:
+      213: 7027138913024274267
+    second: FPS_UIPack_OriginalColorhighRes_195
+  - first:
+      213: -9124625967846568092
+    second: FPS_UIPack_OriginalColorhighRes_196
+  - first:
+      213: 3551684577532386994
+    second: FPS_UIPack_OriginalColorhighRes_197
+  - first:
+      213: 8716704114476734398
+    second: FPS_UIPack_OriginalColorhighRes_198
+  - first:
+      213: -5510601876571423891
+    second: FPS_UIPack_OriginalColorhighRes_199
+  - first:
+      213: 1182935039403526686
+    second: FPS_UIPack_OriginalColorhighRes_200
+  - first:
+      213: -1753611646346487379
+    second: FPS_UIPack_OriginalColorhighRes_201
+  - first:
+      213: 2731562149889629681
+    second: FPS_UIPack_OriginalColorhighRes_202
+  - first:
+      213: 6491715101574243960
+    second: FPS_UIPack_OriginalColorhighRes_203
+  - first:
+      213: -1678203408655362940
+    second: FPS_UIPack_OriginalColorhighRes_204
+  - first:
+      213: 6535960923156703169
+    second: FPS_UIPack_OriginalColorhighRes_205
+  - first:
+      213: 3415966668142891784
+    second: FPS_UIPack_OriginalColorhighRes_206
+  - first:
+      213: -8878416875898887334
+    second: FPS_UIPack_OriginalColorhighRes_207
+  - first:
+      213: -6894100893256061525
+    second: FPS_UIPack_OriginalColorhighRes_208
+  - first:
+      213: -2427949910117974727
+    second: FPS_UIPack_OriginalColorhighRes_209
+  - first:
+      213: -1181214527017198618
+    second: FPS_UIPack_OriginalColorhighRes_210
+  - first:
+      213: 4506349676463769411
+    second: FPS_UIPack_OriginalColorhighRes_211
+  - first:
+      213: 7206466360731800766
+    second: FPS_UIPack_OriginalColorhighRes_212
+  - first:
+      213: 5964144119665924601
+    second: FPS_UIPack_OriginalColorhighRes_213
+  - first:
+      213: 5141442590537426300
+    second: FPS_UIPack_OriginalColorhighRes_214
+  - first:
+      213: 311045592334200981
+    second: FPS_UIPack_OriginalColorhighRes_215
+  - first:
+      213: -2908160597000037485
+    second: FPS_UIPack_OriginalColorhighRes_216
+  - first:
+      213: 5888015904295466406
+    second: FPS_UIPack_OriginalColorhighRes_217
+  - first:
+      213: 2052213709666527703
+    second: FPS_UIPack_OriginalColorhighRes_218
+  - first:
+      213: -1370868058463904635
+    second: FPS_UIPack_OriginalColorhighRes_219
+  - first:
+      213: -8401368547810972505
+    second: FPS_UIPack_OriginalColorhighRes_220
+  - first:
+      213: -7403572132208532125
+    second: FPS_UIPack_OriginalColorhighRes_221
+  - first:
+      213: -2675488066910610523
+    second: FPS_UIPack_OriginalColorhighRes_222
+  - first:
+      213: 2334632980489166998
+    second: FPS_UIPack_OriginalColorhighRes_223
+  - first:
+      213: -7297269136896769524
+    second: FPS_UIPack_OriginalColorhighRes_224
+  - first:
+      213: -7931617719016134873
+    second: FPS_UIPack_OriginalColorhighRes_225
+  - first:
+      213: -8728429258158947092
+    second: FPS_UIPack_OriginalColorhighRes_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1915
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef295c237cc94de0800000000000000
+      internalID: -1348321818383405080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1915
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f57b36bf2257d570800000000000000
+      internalID: 8491345987304650225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1920
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e44ef2c97de9a2b0800000000000000
+      internalID: -5572661956676008731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1923
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8671bd2763ee3c020800000000000000
+      internalID: 2360992547294877544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1878
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e74b2b20448b90800000000000000
+      internalID: -7240591746751011940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1878
+        width: 12
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b79ca4849452c00800000000000000
+      internalID: 875186277434620708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1875
+        width: 11
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b31d9a56ac85d120800000000000000
+      internalID: 2438009419403695024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1871
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae509ae04bac830800000000000000
+      internalID: 4092281186477795870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1873
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f7cf5cc397cd10800000000000000
+      internalID: 2145846253454883129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1912
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de030f8a5da1aaf50800000000000000
+      internalID: 6893351684608635117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_10
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1867
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac7056c22a048eb0800000000000000
+      internalID: -4718635365105107807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_11
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1862
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d8baaba8932cb0800000000000000
+      internalID: -4889896907323157936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_12
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1862
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faed0c97d3031da0800000000000000
+      internalID: -5975428056019506441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1899
+        width: 103
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b19f09df666ba0800000000000000
+      internalID: -6096062067539594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1898
+        width: 104
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff8fd6e22e3eb50800000000000000
+      internalID: 6621384566206169068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1873
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840a768d4504bf90800000000000000
+      internalID: -6938915295344327542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1876
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c4185bf8d2a490800000000000000
+      internalID: -7736382635842943095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_17
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1896
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3fa188bbdcb84d0800000000000000
+      internalID: -3131182910580001855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_18
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1854
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ef26fc55403460800000000000000
+      internalID: 7219346468244546119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_19
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1827
+        width: 118
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e91af9e0279c090800000000000000
+      internalID: -8013748654795809255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1863
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b299c41378c0ee310800000000000000
+      internalID: 1436099105964988715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_21
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1876
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac736ae702abba7d0800000000000000
+      internalID: -2906024485810980918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1808
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e270e555832380800000000000000
+      internalID: -8997201026671777761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1837
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469769cf75d0784e0800000000000000
+      internalID: -1979598839655007900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1815
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e43d33ffe9f15990800000000000000
+      internalID: -7398857903819639579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1739
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a747eba451fde10800000000000000
+      internalID: 2224520151711382062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1741
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68bcca346d1442b0800000000000000
+      internalID: -5601319720221624213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_27
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1733
+        width: 134
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c01483de761d50800000000000000
+      internalID: 6707688141933823725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1797
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e251542a0fade040800000000000000
+      internalID: 4678588046001656546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1796
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba263240f63dae40800000000000000
+      internalID: 5669247911460219571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1791
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4f600f6d6b0970800000000000000
+      internalID: 8722185426849188577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1793
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded82b0a29349240800000000000000
+      internalID: 4797522355795058399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1747
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192056be111b9790800000000000000
+      internalID: -7522399928986883820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_33
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1755
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149ba78cf51209cf0800000000000000
+      internalID: -247661284236281535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_34
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1756
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869a730a5fdf90820800000000000000
+      internalID: 2885116267704330600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1769
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a3dc5380d5f480800000000000000
+      internalID: -8865951028792285044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1733
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ae4b476de5f300800000000000000
+      internalID: 285395179308753722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_37
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1754
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae232eb1d7700e650800000000000000
+      internalID: 6260011715965104874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_38
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1754
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b7233f027169d0800000000000000
+      internalID: -2782817685129939824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_39
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1742
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af522be445bd96430800000000000000
+      internalID: 3776790917670905338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1668
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f2db1a4b055b050800000000000000
+      internalID: 5815643230556729209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_41
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1722
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7143584a3dc26e0800000000000000
+      internalID: -1860879842447976492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_42
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1725
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5636660c983640800000000000000
+      internalID: 5059965732649327993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1628
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5953259921ae747b0800000000000000
+      internalID: -5239962275819670123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1631
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d79918067960e60800000000000000
+      internalID: 7928190634779311445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1655
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd2f637a7253720800000000000000
+      internalID: 2825207940379761675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1638
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0dc12a065709400800000000000000
+      internalID: 328891830695153844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_47
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1652
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7087ddcd6561b8570800000000000000
+      internalID: 8469888086528849927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1640
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2978c510b1ba6b00800000000000000
+      internalID: 822665251786357036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_49
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1603
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9876620ac88e029a0800000000000000
+      internalID: -6259747791365052535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_50
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1606
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0eb4c879921590800000000000000
+      internalID: -7704927268501583053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1608
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606298652dce070c0800000000000000
+      internalID: -4579900432896678394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_52
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1610
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9c6a3b0b295de00800000000000000
+      internalID: 1068921774196312510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_53
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1625
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9e729ddb6540f90800000000000000
+      internalID: -6988365348380087882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_54
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1620
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca7b16e81ca5050800000000000000
+      internalID: 5790153088207137903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_55
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1620
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731402b7860a26650800000000000000
+      internalID: 6224714005582201143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_56
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1640
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f568c96f532a95f0800000000000000
+      internalID: -749247495300160012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_57
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1637
+        width: 227
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675784f2345a1f820800000000000000
+      internalID: 2950320938879055222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1547
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eefd64b3a6267b0800000000000000
+      internalID: -5232503014226399732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1587
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e839cf77694a090800000000000000
+      internalID: -8024123193984577972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1594
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9635a0938adbcbb0800000000000000
+      internalID: -4914594309742446947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1599
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c79843a7df2bde0800000000000000
+      internalID: -1318713039556871154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_62
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1534
+        width: 222
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fad229feb39f850800000000000000
+      internalID: 6411221444674301799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1569
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c2e074c30f2d70800000000000000
+      internalID: 9020432720888775285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1558
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b8b8e62c27c850800000000000000
+      internalID: 6397130341327876319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1573
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd343b61e3c48d0800000000000000
+      internalID: -2860843396069336305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_66
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1510
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2b050754bff100800000000000000
+      internalID: 144031998938918002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_67
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1510
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde818051e5a13a40800000000000000
+      internalID: 5346236619802382043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_68
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1529
+        width: 113
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208363ea33c12410800000000000000
+      internalID: 1450655212680478754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1517
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b73f33655228f210800000000000000
+      internalID: 1366880237039597496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_70
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1451
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf989f397648680800000000000000
+      internalID: -8753757890456978643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_71
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1489
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c78cd0797777dd30800000000000000
+      internalID: 4456161719774644166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_72
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1521
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d208495fb736e20800000000000000
+      internalID: 3342651643127672209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_73
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1464
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe04486ff5c9d610800000000000000
+      internalID: 1646564839537250039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_74
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1526
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffeb0700854115d0800000000000000
+      internalID: -3093615052850466832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_75
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1498
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd968498df7ada3d0800000000000000
+      internalID: -3193711853364024867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_76
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1462
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc990078b28a81420800000000000000
+      internalID: 2601013689708485071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_77
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1468
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457738c45c2221430800000000000000
+      internalID: 3752099670340630356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1488
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54597b7bcf1e1aa90800000000000000
+      internalID: -7304308645087963835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_79
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1504
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c8166e22af3c70800000000000000
+      internalID: 8953052904400931037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1496
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b565da64d99268e0800000000000000
+      internalID: -1701628571588139600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_81
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1497
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906481d9ca82e6250800000000000000
+      internalID: 5939729680383362569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_82
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1456
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacd68fc729690910800000000000000
+      internalID: 1804088745444957354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_83
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1470
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c9a73da9e56130800000000000000
+      internalID: 3559508010678732395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_84
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1396
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79593fd1256fb0c60800000000000000
+      internalID: 7785587213390288279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1491
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ba4bc3f754b0210800000000000000
+      internalID: 1300209330208156521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_86
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1475
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d069e985ae511c0800000000000000
+      internalID: -4533459783539880698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1480
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca08e877c713200800000000000000
+      internalID: 158044314868427895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_88
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1461
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7f2be7a5609a80800000000000000
+      internalID: -8462151927949459508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_89
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1402
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3ec90d10b40070800000000000000
+      internalID: 8071770070919822577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_90
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1402
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf5de7a3a6e88c0800000000000000
+      internalID: -3995139019962451034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_91
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1431
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fea878726639fc0800000000000000
+      internalID: -3489332966318215396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1435
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b7938096c7e2720800000000000000
+      internalID: 2823330806959274827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_93
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1468
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63acdee60167690800000000000000
+      internalID: -7604872852146604320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1430
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ac92c61ea5fa10800000000000000
+      internalID: 1942650227057795706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_95
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1454
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207eb80878ff5410800000000000000
+      internalID: 1468165197972533287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_96
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1444
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2992bd25e60be810800000000000000
+      internalID: 1795536457821231405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_97
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1427
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb6545cac9f8760800000000000000
+      internalID: 7462355371539480575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_98
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1430
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446a0ed743db9d90800000000000000
+      internalID: -7089840882743352249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1433
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b2d406a740ecf0800000000000000
+      internalID: -225101202997463194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1395
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa65cfc04c123ae0800000000000000
+      internalID: -1571162255309575509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_101
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1369
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233d6eb649b16db0800000000000000
+      internalID: -4800352014306561235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105941ede1288ff20800000000000000
+      internalID: 3456655783093376257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_103
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1327
+        width: 208
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544cb58e1a156ba0800000000000000
+      internalID: -6096437802181049257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_104
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1362
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6adb4099531c510800000000000000
+      internalID: 1567593076627449548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_105
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1364
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de296cf303d7dd10800000000000000
+      internalID: 2150419361165815504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_106
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1366
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8416e40bd6dce460800000000000000
+      internalID: 7272423734464877707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_107
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1326
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802aaebcedf26210800000000000000
+      internalID: 1324900433653276801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_108
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1328
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4892466fe47fbe090800000000000000
+      internalID: -8004031994207655548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_109
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1295
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b110aea6fa59c0800000000000000
+      internalID: -3937563694311819938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1258
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b1ee4200f724e0800000000000000
+      internalID: -2006371216266251140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_111
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1300
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae48e68d6f648c20800000000000000
+      internalID: 3207811350800125607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_112
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1298
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a281641ce4561860800000000000000
+      internalID: 7500275602363089571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_113
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1310
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28502d8c8af2a60800000000000000
+      internalID: 7651519872396264121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_114
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1310
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ce53a54e4250d0800000000000000
+      internalID: -3435597504729660424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_115
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1310
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb2126eed430ec10800000000000000
+      internalID: 2080721159793486812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_116
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1310
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e4f61efc919aa0800000000000000
+      internalID: -6155966600517981879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_117
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1310
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e26a0465610a70800000000000000
+      internalID: 8791419427949307884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_118
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1310
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516d125af8121f00800000000000000
+      internalID: 1085957923548258651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_119
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1309
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1786782df09f480800000000000000
+      internalID: -8865036994612792839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1159
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2150c27112c6fc0800000000000000
+      internalID: -3500386426967223585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_121
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1193
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77a4de84c964ac0800000000000000
+      internalID: -3871234992645703699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_122
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1193
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d68cde4b80483ba0800000000000000
+      internalID: -6109061927460370732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_123
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1233
+        width: 208
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5c1845369d1c80800000000000000
+      internalID: -8350352978487780178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_124
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1232
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c52c295a5d66f0800000000000000
+      internalID: -689795828878554718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_125
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1234
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59cd065a017ea60800000000000000
+      internalID: 7703143990121240050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_126
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1225
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf56cdf89d49700800000000000000
+      internalID: 546300666719894327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_127
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1225
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb504bf5ea3dc1e0800000000000000
+      internalID: -2176018285512860700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_128
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1199
+        width: 162
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c94d643e08cd80800000000000000
+      internalID: -8230312700684942348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_129
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1174
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bb71d135d58ef0800000000000000
+      internalID: -106444606228678876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_130
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1152
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab25355a9e16290800000000000000
+      internalID: -7898775375154333019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_131
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1152
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d2ae467cd9c7720800000000000000
+      internalID: 2845322544308432153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_132
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1035
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61401e6c30976aa0800000000000000
+      internalID: -6167802575441608338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_133
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1082
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300626bcafa9ee20800000000000000
+      internalID: 3380426151643447359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_134
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 897
+        width: 271
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5039a19b43c36b170800000000000000
+      internalID: 8193802769188688645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_135
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1084
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee9e9ceb5d7e230800000000000000
+      internalID: 3668135436924612103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1084
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8329571efb0d280800000000000000
+      internalID: -9020499078562039629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_137
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1001
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34008ce3d20f7b0800000000000000
+      internalID: -5192600622691499019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_138
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1000
+        width: 19
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec21b3eafeccb750800000000000000
+      internalID: 6322155553878519021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_139
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1075
+        width: 159
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e46ccb26074400800000000000000
+      internalID: 308221884680693099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_140
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1035
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1008565f018b2510800000000000000
+      internalID: 1525454801668145178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_141
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1034
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6ba53dd8b405d30800000000000000
+      internalID: 4418114306958866140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_142
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 790
+        width: 290
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d6545ee429f100800000000000000
+      internalID: 142185469274673485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_143
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1023
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f660b234d307a4f0800000000000000
+      internalID: -817680597426084108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_144
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1016
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc8b6cca691c520800000000000000
+      internalID: 2720621318721031277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_145
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1001
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5470725f8cd380800000000000000
+      internalID: -8945117175627882568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_146
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 998
+        width: 148
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d1bf83dda38f10800000000000000
+      internalID: 2270849761285363488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_147
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 994
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf9af520cdd9d070800000000000000
+      internalID: 8131774419534782398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1012
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9e2fd3e06ec840800000000000000
+      internalID: 5246237147751423100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_149
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 999
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d36b67a5a6a2510800000000000000
+      internalID: 1525148360589589880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_150
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1012
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac9e29ff29eec40800000000000000
+      internalID: 5543529817718770296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_151
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1010
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2f4646ef0abc50800000000000000
+      internalID: 6681670478854041070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_152
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1012
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769d3e7720cc0e90800000000000000
+      internalID: -7058055240142186893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_153
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1011
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291c9cb1331402d80800000000000000
+      internalID: -8277544427341626990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_154
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1012
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9965bd5783b37b3f0800000000000000
+      internalID: -885173688073496935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_155
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1010
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738fd06fff455a6d0800000000000000
+      internalID: -2979882120114210761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_156
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1012
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff80390a2e7bed40800000000000000
+      internalID: 5614720079455358975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_157
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1011
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d69534645784d60800000000000000
+      internalID: 7874672893095406968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_158
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 970
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8f507a1e0e593d0800000000000000
+      internalID: -3200404700402419500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_159
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 916
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283797ce47adb660800000000000000
+      internalID: 7403257319264827429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 966
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0eff54d3df25b50800000000000000
+      internalID: 6580600445150945469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 929
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01206abb70c68a9b0800000000000000
+      internalID: -5068682600136703472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_162
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 919
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ab92e8c7888d20800000000000000
+      internalID: 3281021625404466686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_163
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 810
+        width: 367
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab60d80e633f5e0800000000000000
+      internalID: -1877096281616762346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_164
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 898
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e734cb97625321510800000000000000
+      internalID: 1518334463744689022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_165
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 886
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba81d18ec0ebafa0800000000000000
+      internalID: -5788285718508762444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_166
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 886
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1abafd5592dd2310800000000000000
+      internalID: 1381992199641283100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_167
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 869
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8de018f21c60e0800000000000000
+      internalID: -2275422855083749947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_168
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 860
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0370af93fc06d0800000000000000
+      internalID: -3022773382955200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_169
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 730
+        width: 31
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff793b5715da750800000000000000
+      internalID: 6317795418236780335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_170
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 730
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a02ac7ccebfbd0800000000000000
+      internalID: -2595220417415173652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_171
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 785
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99998a3a74adc450800000000000000
+      internalID: 6110721114286692762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_172
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 782
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa38d98726b344f0800000000000000
+      internalID: -845632024082892048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_173
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 777
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db39c0f932dcd8af0800000000000000
+      internalID: -392432039635414083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_174
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 777
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28936fa31cc4f8160800000000000000
+      internalID: 7029921936150247810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_175
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 750
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb3d1e556f78140800000000000000
+      internalID: 4722013583042657382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_176
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 743
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853495612b8b7a6e0800000000000000
+      internalID: -1826288048856808616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_177
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 711
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb6b80a3d0a4080800000000000000
+      internalID: -9202528345672728994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_178
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 731
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e357f4648769080800000000000000
+      internalID: -9181018546972049841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_179
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 714
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf88e2f5a6f67b0800000000000000
+      internalID: -5228843685318689294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_180
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 700
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99a7aef29915f30800000000000000
+      internalID: 4562596328579439045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_181
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 678
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0ce41dde79d3d0800000000000000
+      internalID: -3181372173756659002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_182
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 678
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3fb312f50b4fe50800000000000000
+      internalID: 6842287656508584874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_183
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 712
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd40ec632034a40800000000000000
+      internalID: 5351123216654196618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_184
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 642
+        width: 170
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5311b831c6def90800000000000000
+      internalID: -6922758221005244991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_185
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 597
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8eadcc4141f9ab0800000000000000
+      internalID: -4999254981789161301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_186
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 597
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12cb029c5a189600800000000000000
+      internalID: 475158745577144858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_187
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 480
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686d1d6bff0ae260800000000000000
+      internalID: 7127526932809082990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_188
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 616
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2479d170e906d0800000000000000
+      internalID: -3023638895218380840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_189
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 617
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b37dc2a663b7200800000000000000
+      internalID: 178796439858002832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 592
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401396ef55fe89db0800000000000000
+      internalID: -4784811451461586684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_191
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 482
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c8ab39b30a8310800000000000000
+      internalID: 1407941927611450517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_192
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 554
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcaeafe085ca0360800000000000000
+      internalID: 7136733717089660152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_193
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 575
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f772040ba51333d0800000000000000
+      internalID: -3228212683643652111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_194
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 557
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a959de7677595fa20800000000000000
+      internalID: 3095544658964354458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_195
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 556
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe22a2c99658160800000000000000
+      internalID: 7027138913024274267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_196
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 556
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f433ec601de5180800000000000000
+      internalID: -9124625967846568092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_197
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 555
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be1d0e3e4e1a4130800000000000000
+      internalID: 3551684577532386994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_198
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 556
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb752938534f7f870800000000000000
+      internalID: 8716704114476734398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_199
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 557
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfb582ac86683b0800000000000000
+      internalID: -5510601876571423891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_200
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 557
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a8200a621aa6010800000000000000
+      internalID: 1182935039403526686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_201
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 556
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da99789af7be9a7e0800000000000000
+      internalID: -1753611646346487379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_202
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 556
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdd21a8d4578e520800000000000000
+      internalID: 2731562149889629681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_203
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 555
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8762f548d74371a50800000000000000
+      internalID: 6491715101574243960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_204
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 556
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845f3e24e2d5b8e0800000000000000
+      internalID: -1678203408655362940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_205
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 557
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e692a4d564ba50800000000000000
+      internalID: 6535960923156703169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_206
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 518
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8035b3b0693f76f20800000000000000
+      internalID: 3415966668142891784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_207
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 514
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53a63824e689c480800000000000000
+      internalID: -8878416875898887334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_208
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 483
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade4cb93cb3350a0800000000000000
+      internalID: -6894100893256061525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_209
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 480
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df9faab603e4ed0800000000000000
+      internalID: -2427949910117974727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_210
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 521
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdb9165ab7b9fe0800000000000000
+      internalID: -1181214527017198618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_211
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 464
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c153b725c98e30800000000000000
+      internalID: 4506349676463769411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_212
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 464
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4983d39f2820460800000000000000
+      internalID: 7206466360731800766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_213
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 495
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f91ce93a75e4c250800000000000000
+      internalID: 5964144119665924601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_214
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 497
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752c0aabc21a5740800000000000000
+      internalID: 5141442590537426300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_215
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 494
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f708715e015400800000000000000
+      internalID: 311045592334200981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_216
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 501
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b560a585324a7d0800000000000000
+      internalID: -2908160597000037485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_217
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 495
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b167d44f66b150800000000000000
+      internalID: 5888015904295466406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_218
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 491
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d92cdfee7dea7c10800000000000000
+      internalID: 2052213709666527703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_219
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 491
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c545593c2b9fce0800000000000000
+      internalID: -1370868058463904635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_220
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 498
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac669071d7586b80800000000000000
+      internalID: -8401368547810972505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_221
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 503
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365aabe1f5a314990800000000000000
+      internalID: -7403572132208532125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_222
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 502
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab1ffa47c1cedad0800000000000000
+      internalID: -2675488066910610523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_223
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 486
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e7fa8358466020800000000000000
+      internalID: 2334632980489166998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_224
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 474
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c8d0f164eaba90800000000000000
+      internalID: -7297269136896769524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_225
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 486
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72769d345bb3de190800000000000000
+      internalID: -7931617719016134873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FPS_UIPack_OriginalColorhighRes_226
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 479
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce44f4cb5d36ed680800000000000000
+      internalID: -8728429258158947092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FPS_UIPack_OriginalColorhighRes_0: -1348321818383405080
+      FPS_UIPack_OriginalColorhighRes_1: 8491345987304650225
+      FPS_UIPack_OriginalColorhighRes_10: -4718635365105107807
+      FPS_UIPack_OriginalColorhighRes_100: -1571162255309575509
+      FPS_UIPack_OriginalColorhighRes_101: -4800352014306561235
+      FPS_UIPack_OriginalColorhighRes_102: 3456655783093376257
+      FPS_UIPack_OriginalColorhighRes_103: -6096437802181049257
+      FPS_UIPack_OriginalColorhighRes_104: 1567593076627449548
+      FPS_UIPack_OriginalColorhighRes_105: 2150419361165815504
+      FPS_UIPack_OriginalColorhighRes_106: 7272423734464877707
+      FPS_UIPack_OriginalColorhighRes_107: 1324900433653276801
+      FPS_UIPack_OriginalColorhighRes_108: -8004031994207655548
+      FPS_UIPack_OriginalColorhighRes_109: -3937563694311819938
+      FPS_UIPack_OriginalColorhighRes_11: -4889896907323157936
+      FPS_UIPack_OriginalColorhighRes_110: -2006371216266251140
+      FPS_UIPack_OriginalColorhighRes_111: 3207811350800125607
+      FPS_UIPack_OriginalColorhighRes_112: 7500275602363089571
+      FPS_UIPack_OriginalColorhighRes_113: 7651519872396264121
+      FPS_UIPack_OriginalColorhighRes_114: -3435597504729660424
+      FPS_UIPack_OriginalColorhighRes_115: 2080721159793486812
+      FPS_UIPack_OriginalColorhighRes_116: -6155966600517981879
+      FPS_UIPack_OriginalColorhighRes_117: 8791419427949307884
+      FPS_UIPack_OriginalColorhighRes_118: 1085957923548258651
+      FPS_UIPack_OriginalColorhighRes_119: -8865036994612792839
+      FPS_UIPack_OriginalColorhighRes_12: -5975428056019506441
+      FPS_UIPack_OriginalColorhighRes_120: -3500386426967223585
+      FPS_UIPack_OriginalColorhighRes_121: -3871234992645703699
+      FPS_UIPack_OriginalColorhighRes_122: -6109061927460370732
+      FPS_UIPack_OriginalColorhighRes_123: -8350352978487780178
+      FPS_UIPack_OriginalColorhighRes_124: -689795828878554718
+      FPS_UIPack_OriginalColorhighRes_125: 7703143990121240050
+      FPS_UIPack_OriginalColorhighRes_126: 546300666719894327
+      FPS_UIPack_OriginalColorhighRes_127: -2176018285512860700
+      FPS_UIPack_OriginalColorhighRes_128: -8230312700684942348
+      FPS_UIPack_OriginalColorhighRes_129: -106444606228678876
+      FPS_UIPack_OriginalColorhighRes_13: -6096062067539594881
+      FPS_UIPack_OriginalColorhighRes_130: -7898775375154333019
+      FPS_UIPack_OriginalColorhighRes_131: 2845322544308432153
+      FPS_UIPack_OriginalColorhighRes_132: -6167802575441608338
+      FPS_UIPack_OriginalColorhighRes_133: 3380426151643447359
+      FPS_UIPack_OriginalColorhighRes_134: 8193802769188688645
+      FPS_UIPack_OriginalColorhighRes_135: 3668135436924612103
+      FPS_UIPack_OriginalColorhighRes_136: -9020499078562039629
+      FPS_UIPack_OriginalColorhighRes_137: -5192600622691499019
+      FPS_UIPack_OriginalColorhighRes_138: 6322155553878519021
+      FPS_UIPack_OriginalColorhighRes_139: 308221884680693099
+      FPS_UIPack_OriginalColorhighRes_14: 6621384566206169068
+      FPS_UIPack_OriginalColorhighRes_140: 1525454801668145178
+      FPS_UIPack_OriginalColorhighRes_141: 4418114306958866140
+      FPS_UIPack_OriginalColorhighRes_142: 142185469274673485
+      FPS_UIPack_OriginalColorhighRes_143: -817680597426084108
+      FPS_UIPack_OriginalColorhighRes_144: 2720621318721031277
+      FPS_UIPack_OriginalColorhighRes_145: -8945117175627882568
+      FPS_UIPack_OriginalColorhighRes_146: 2270849761285363488
+      FPS_UIPack_OriginalColorhighRes_147: 8131774419534782398
+      FPS_UIPack_OriginalColorhighRes_148: 5246237147751423100
+      FPS_UIPack_OriginalColorhighRes_149: 1525148360589589880
+      FPS_UIPack_OriginalColorhighRes_15: -6938915295344327542
+      FPS_UIPack_OriginalColorhighRes_150: 5543529817718770296
+      FPS_UIPack_OriginalColorhighRes_151: 6681670478854041070
+      FPS_UIPack_OriginalColorhighRes_152: -7058055240142186893
+      FPS_UIPack_OriginalColorhighRes_153: -8277544427341626990
+      FPS_UIPack_OriginalColorhighRes_154: -885173688073496935
+      FPS_UIPack_OriginalColorhighRes_155: -2979882120114210761
+      FPS_UIPack_OriginalColorhighRes_156: 5614720079455358975
+      FPS_UIPack_OriginalColorhighRes_157: 7874672893095406968
+      FPS_UIPack_OriginalColorhighRes_158: -3200404700402419500
+      FPS_UIPack_OriginalColorhighRes_159: 7403257319264827429
+      FPS_UIPack_OriginalColorhighRes_16: -7736382635842943095
+      FPS_UIPack_OriginalColorhighRes_160: 6580600445150945469
+      FPS_UIPack_OriginalColorhighRes_161: -5068682600136703472
+      FPS_UIPack_OriginalColorhighRes_162: 3281021625404466686
+      FPS_UIPack_OriginalColorhighRes_163: -1877096281616762346
+      FPS_UIPack_OriginalColorhighRes_164: 1518334463744689022
+      FPS_UIPack_OriginalColorhighRes_165: -5788285718508762444
+      FPS_UIPack_OriginalColorhighRes_166: 1381992199641283100
+      FPS_UIPack_OriginalColorhighRes_167: -2275422855083749947
+      FPS_UIPack_OriginalColorhighRes_168: -3022773382955200605
+      FPS_UIPack_OriginalColorhighRes_169: 6317795418236780335
+      FPS_UIPack_OriginalColorhighRes_17: -3131182910580001855
+      FPS_UIPack_OriginalColorhighRes_170: -2595220417415173652
+      FPS_UIPack_OriginalColorhighRes_171: 6110721114286692762
+      FPS_UIPack_OriginalColorhighRes_172: -845632024082892048
+      FPS_UIPack_OriginalColorhighRes_173: -392432039635414083
+      FPS_UIPack_OriginalColorhighRes_174: 7029921936150247810
+      FPS_UIPack_OriginalColorhighRes_175: 4722013583042657382
+      FPS_UIPack_OriginalColorhighRes_176: -1826288048856808616
+      FPS_UIPack_OriginalColorhighRes_177: -9202528345672728994
+      FPS_UIPack_OriginalColorhighRes_178: -9181018546972049841
+      FPS_UIPack_OriginalColorhighRes_179: -5228843685318689294
+      FPS_UIPack_OriginalColorhighRes_18: 7219346468244546119
+      FPS_UIPack_OriginalColorhighRes_180: 4562596328579439045
+      FPS_UIPack_OriginalColorhighRes_181: -3181372173756659002
+      FPS_UIPack_OriginalColorhighRes_182: 6842287656508584874
+      FPS_UIPack_OriginalColorhighRes_183: 5351123216654196618
+      FPS_UIPack_OriginalColorhighRes_184: -6922758221005244991
+      FPS_UIPack_OriginalColorhighRes_185: -4999254981789161301
+      FPS_UIPack_OriginalColorhighRes_186: 475158745577144858
+      FPS_UIPack_OriginalColorhighRes_187: 7127526932809082990
+      FPS_UIPack_OriginalColorhighRes_188: -3023638895218380840
+      FPS_UIPack_OriginalColorhighRes_189: 178796439858002832
+      FPS_UIPack_OriginalColorhighRes_19: -8013748654795809255
+      FPS_UIPack_OriginalColorhighRes_190: -4784811451461586684
+      FPS_UIPack_OriginalColorhighRes_191: 1407941927611450517
+      FPS_UIPack_OriginalColorhighRes_192: 7136733717089660152
+      FPS_UIPack_OriginalColorhighRes_193: -3228212683643652111
+      FPS_UIPack_OriginalColorhighRes_194: 3095544658964354458
+      FPS_UIPack_OriginalColorhighRes_195: 7027138913024274267
+      FPS_UIPack_OriginalColorhighRes_196: -9124625967846568092
+      FPS_UIPack_OriginalColorhighRes_197: 3551684577532386994
+      FPS_UIPack_OriginalColorhighRes_198: 8716704114476734398
+      FPS_UIPack_OriginalColorhighRes_199: -5510601876571423891
+      FPS_UIPack_OriginalColorhighRes_2: -5572661956676008731
+      FPS_UIPack_OriginalColorhighRes_20: 1436099105964988715
+      FPS_UIPack_OriginalColorhighRes_200: 1182935039403526686
+      FPS_UIPack_OriginalColorhighRes_201: -1753611646346487379
+      FPS_UIPack_OriginalColorhighRes_202: 2731562149889629681
+      FPS_UIPack_OriginalColorhighRes_203: 6491715101574243960
+      FPS_UIPack_OriginalColorhighRes_204: -1678203408655362940
+      FPS_UIPack_OriginalColorhighRes_205: 6535960923156703169
+      FPS_UIPack_OriginalColorhighRes_206: 3415966668142891784
+      FPS_UIPack_OriginalColorhighRes_207: -8878416875898887334
+      FPS_UIPack_OriginalColorhighRes_208: -6894100893256061525
+      FPS_UIPack_OriginalColorhighRes_209: -2427949910117974727
+      FPS_UIPack_OriginalColorhighRes_21: -2906024485810980918
+      FPS_UIPack_OriginalColorhighRes_210: -1181214527017198618
+      FPS_UIPack_OriginalColorhighRes_211: 4506349676463769411
+      FPS_UIPack_OriginalColorhighRes_212: 7206466360731800766
+      FPS_UIPack_OriginalColorhighRes_213: 5964144119665924601
+      FPS_UIPack_OriginalColorhighRes_214: 5141442590537426300
+      FPS_UIPack_OriginalColorhighRes_215: 311045592334200981
+      FPS_UIPack_OriginalColorhighRes_216: -2908160597000037485
+      FPS_UIPack_OriginalColorhighRes_217: 5888015904295466406
+      FPS_UIPack_OriginalColorhighRes_218: 2052213709666527703
+      FPS_UIPack_OriginalColorhighRes_219: -1370868058463904635
+      FPS_UIPack_OriginalColorhighRes_22: -8997201026671777761
+      FPS_UIPack_OriginalColorhighRes_220: -8401368547810972505
+      FPS_UIPack_OriginalColorhighRes_221: -7403572132208532125
+      FPS_UIPack_OriginalColorhighRes_222: -2675488066910610523
+      FPS_UIPack_OriginalColorhighRes_223: 2334632980489166998
+      FPS_UIPack_OriginalColorhighRes_224: -7297269136896769524
+      FPS_UIPack_OriginalColorhighRes_225: -7931617719016134873
+      FPS_UIPack_OriginalColorhighRes_226: -8728429258158947092
+      FPS_UIPack_OriginalColorhighRes_23: -1979598839655007900
+      FPS_UIPack_OriginalColorhighRes_24: -7398857903819639579
+      FPS_UIPack_OriginalColorhighRes_25: 2224520151711382062
+      FPS_UIPack_OriginalColorhighRes_26: -5601319720221624213
+      FPS_UIPack_OriginalColorhighRes_27: 6707688141933823725
+      FPS_UIPack_OriginalColorhighRes_28: 4678588046001656546
+      FPS_UIPack_OriginalColorhighRes_29: 5669247911460219571
+      FPS_UIPack_OriginalColorhighRes_3: 2360992547294877544
+      FPS_UIPack_OriginalColorhighRes_30: 8722185426849188577
+      FPS_UIPack_OriginalColorhighRes_31: 4797522355795058399
+      FPS_UIPack_OriginalColorhighRes_32: -7522399928986883820
+      FPS_UIPack_OriginalColorhighRes_33: -247661284236281535
+      FPS_UIPack_OriginalColorhighRes_34: 2885116267704330600
+      FPS_UIPack_OriginalColorhighRes_35: -8865951028792285044
+      FPS_UIPack_OriginalColorhighRes_36: 285395179308753722
+      FPS_UIPack_OriginalColorhighRes_37: 6260011715965104874
+      FPS_UIPack_OriginalColorhighRes_38: -2782817685129939824
+      FPS_UIPack_OriginalColorhighRes_39: 3776790917670905338
+      FPS_UIPack_OriginalColorhighRes_4: -7240591746751011940
+      FPS_UIPack_OriginalColorhighRes_40: 5815643230556729209
+      FPS_UIPack_OriginalColorhighRes_41: -1860879842447976492
+      FPS_UIPack_OriginalColorhighRes_42: 5059965732649327993
+      FPS_UIPack_OriginalColorhighRes_43: -5239962275819670123
+      FPS_UIPack_OriginalColorhighRes_44: 7928190634779311445
+      FPS_UIPack_OriginalColorhighRes_45: 2825207940379761675
+      FPS_UIPack_OriginalColorhighRes_46: 328891830695153844
+      FPS_UIPack_OriginalColorhighRes_47: 8469888086528849927
+      FPS_UIPack_OriginalColorhighRes_48: 822665251786357036
+      FPS_UIPack_OriginalColorhighRes_49: -6259747791365052535
+      FPS_UIPack_OriginalColorhighRes_5: 875186277434620708
+      FPS_UIPack_OriginalColorhighRes_50: -7704927268501583053
+      FPS_UIPack_OriginalColorhighRes_51: -4579900432896678394
+      FPS_UIPack_OriginalColorhighRes_52: 1068921774196312510
+      FPS_UIPack_OriginalColorhighRes_53: -6988365348380087882
+      FPS_UIPack_OriginalColorhighRes_54: 5790153088207137903
+      FPS_UIPack_OriginalColorhighRes_55: 6224714005582201143
+      FPS_UIPack_OriginalColorhighRes_56: -749247495300160012
+      FPS_UIPack_OriginalColorhighRes_57: 2950320938879055222
+      FPS_UIPack_OriginalColorhighRes_58: -5232503014226399732
+      FPS_UIPack_OriginalColorhighRes_59: -8024123193984577972
+      FPS_UIPack_OriginalColorhighRes_6: 2438009419403695024
+      FPS_UIPack_OriginalColorhighRes_60: -4914594309742446947
+      FPS_UIPack_OriginalColorhighRes_61: -1318713039556871154
+      FPS_UIPack_OriginalColorhighRes_62: 6411221444674301799
+      FPS_UIPack_OriginalColorhighRes_63: 9020432720888775285
+      FPS_UIPack_OriginalColorhighRes_64: 6397130341327876319
+      FPS_UIPack_OriginalColorhighRes_65: -2860843396069336305
+      FPS_UIPack_OriginalColorhighRes_66: 144031998938918002
+      FPS_UIPack_OriginalColorhighRes_67: 5346236619802382043
+      FPS_UIPack_OriginalColorhighRes_68: 1450655212680478754
+      FPS_UIPack_OriginalColorhighRes_69: 1366880237039597496
+      FPS_UIPack_OriginalColorhighRes_7: 4092281186477795870
+      FPS_UIPack_OriginalColorhighRes_70: -8753757890456978643
+      FPS_UIPack_OriginalColorhighRes_71: 4456161719774644166
+      FPS_UIPack_OriginalColorhighRes_72: 3342651643127672209
+      FPS_UIPack_OriginalColorhighRes_73: 1646564839537250039
+      FPS_UIPack_OriginalColorhighRes_74: -3093615052850466832
+      FPS_UIPack_OriginalColorhighRes_75: -3193711853364024867
+      FPS_UIPack_OriginalColorhighRes_76: 2601013689708485071
+      FPS_UIPack_OriginalColorhighRes_77: 3752099670340630356
+      FPS_UIPack_OriginalColorhighRes_78: -7304308645087963835
+      FPS_UIPack_OriginalColorhighRes_79: 8953052904400931037
+      FPS_UIPack_OriginalColorhighRes_8: 2145846253454883129
+      FPS_UIPack_OriginalColorhighRes_80: -1701628571588139600
+      FPS_UIPack_OriginalColorhighRes_81: 5939729680383362569
+      FPS_UIPack_OriginalColorhighRes_82: 1804088745444957354
+      FPS_UIPack_OriginalColorhighRes_83: 3559508010678732395
+      FPS_UIPack_OriginalColorhighRes_84: 7785587213390288279
+      FPS_UIPack_OriginalColorhighRes_85: 1300209330208156521
+      FPS_UIPack_OriginalColorhighRes_86: -4533459783539880698
+      FPS_UIPack_OriginalColorhighRes_87: 158044314868427895
+      FPS_UIPack_OriginalColorhighRes_88: -8462151927949459508
+      FPS_UIPack_OriginalColorhighRes_89: 8071770070919822577
+      FPS_UIPack_OriginalColorhighRes_9: 6893351684608635117
+      FPS_UIPack_OriginalColorhighRes_90: -3995139019962451034
+      FPS_UIPack_OriginalColorhighRes_91: -3489332966318215396
+      FPS_UIPack_OriginalColorhighRes_92: 2823330806959274827
+      FPS_UIPack_OriginalColorhighRes_93: -7604872852146604320
+      FPS_UIPack_OriginalColorhighRes_94: 1942650227057795706
+      FPS_UIPack_OriginalColorhighRes_95: 1468165197972533287
+      FPS_UIPack_OriginalColorhighRes_96: 1795536457821231405
+      FPS_UIPack_OriginalColorhighRes_97: 7462355371539480575
+      FPS_UIPack_OriginalColorhighRes_98: -7089840882743352249
+      FPS_UIPack_OriginalColorhighRes_99: -225101202997463194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
