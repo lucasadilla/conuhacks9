@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 6218442659269869830}
   - component: {fileID: 4012855257264636650}
   - component: {fileID: 4966534906218542596}
-  - component: {fileID: 4795254903728535108}
   - component: {fileID: 1843161582955263825}
   - component: {fileID: 1461831532765298323}
   m_Layer: 0
@@ -103,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 47271160
+  GlobalObjectIdHash: 333326495
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -116,21 +115,6 @@ MonoBehaviour:
   AutoObjectParentSync: 1
   SyncOwnerTransformWhenParented: 1
   AllowOwnerToParent: 0
---- !u!114 &4795254903728535108
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9166293314343888096}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8718c394712f5ae468e68b22d2d75db4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowTopMostFoldoutHeaderGroup: 1
-  TransitionStateInfoList: []
-  m_Animator: {fileID: 0}
 --- !u!50 &1843161582955263825
 Rigidbody2D:
   serializedVersion: 5
