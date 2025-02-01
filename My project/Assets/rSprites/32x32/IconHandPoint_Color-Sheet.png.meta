@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconHandPoint_Color-Sheet_0: 2634138474304120619
+      IconHandPoint_Color-Sheet_1: 8183510299557769022
+      IconHandPoint_Color-Sheet_2: 7153347210928282111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

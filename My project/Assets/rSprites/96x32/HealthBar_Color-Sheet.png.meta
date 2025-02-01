@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthBar_Color-Sheet_0: 3724665862387351182
+      HealthBar_Color-Sheet_1: 2319132856844514435
+      HealthBar_Color-Sheet_2: 8923617507340976602
+      HealthBar_Color-Sheet_3: 4195965777386534099
+      HealthBar_Color-Sheet_4: 8866887800089551460
+      HealthBar_Color-Sheet_5: -2182932730047773968
+      HealthBar_Color-Sheet_6: -5118195884398017340
+      HealthBar_Color-Sheet_7: 3664681231417972646
+      HealthBar_Color-Sheet_8: 8411736631202237864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

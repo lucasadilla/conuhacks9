@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconDanger_Color-Sheet_0: -822377351489647896
+      IconDanger_Color-Sheet_1: 1174789416460522699
+      IconDanger_Color-Sheet_2: -2120847439919533758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponShotgunAmmoSmall_Color-Sheet_0: -7247539527052186249
+      WeaponShotgunAmmoSmall_Color-Sheet_1: -1338293154985598161
+      WeaponShotgunAmmoSmall_Color-Sheet_2: -7024261185370945638
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

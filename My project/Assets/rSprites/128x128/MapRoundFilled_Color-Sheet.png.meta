@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapRoundFilled_Color-Sheet_0: -9143374368745659904
+      MapRoundFilled_Color-Sheet_1: -7477635730962577321
+      MapRoundFilled_Color-Sheet_10: 4731284275264932326
+      MapRoundFilled_Color-Sheet_11: -3027707178457193193
+      MapRoundFilled_Color-Sheet_12: -3129083246708098578
+      MapRoundFilled_Color-Sheet_13: -7525822439589905497
+      MapRoundFilled_Color-Sheet_14: 1782151342156623373
+      MapRoundFilled_Color-Sheet_15: -2713053798483887574
+      MapRoundFilled_Color-Sheet_16: -5880403187147963552
+      MapRoundFilled_Color-Sheet_17: -8824702924323531689
+      MapRoundFilled_Color-Sheet_18: 613229266689621372
+      MapRoundFilled_Color-Sheet_19: 6266424540881530170
+      MapRoundFilled_Color-Sheet_2: -5262271769597495218
+      MapRoundFilled_Color-Sheet_20: 3896637188609052974
+      MapRoundFilled_Color-Sheet_3: -6833033320447951748
+      MapRoundFilled_Color-Sheet_4: -2978610770228972378
+      MapRoundFilled_Color-Sheet_5: 5132842109465871570
+      MapRoundFilled_Color-Sheet_6: -1329387162609715512
+      MapRoundFilled_Color-Sheet_7: -2728248358714796736
+      MapRoundFilled_Color-Sheet_8: -3586282199683452072
+      MapRoundFilled_Color-Sheet_9: 833268222683752021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

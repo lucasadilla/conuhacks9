@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconMedizine_Color-Sheet_0: 7221819578076153063
+      IconMedizine_Color-Sheet_1: -1411576298137701196
+      IconMedizine_Color-Sheet_2: 1090433787307467300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

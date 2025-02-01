@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UiBoxSquareSmall_Color-Sheet_0: -3383336282368648806
+      UiBoxSquareSmall_Color-Sheet_1: 1599283124523252741
+      UiBoxSquareSmall_Color-Sheet_2: -5426036380037086033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

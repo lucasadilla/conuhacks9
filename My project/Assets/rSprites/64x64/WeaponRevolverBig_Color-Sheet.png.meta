@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponRevolverBig_Color-Sheet_0: -6572955243105683858
+      WeaponRevolverBig_Color-Sheet_1: -458684354487872514
+      WeaponRevolverBig_Color-Sheet_2: -4887951952671296827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

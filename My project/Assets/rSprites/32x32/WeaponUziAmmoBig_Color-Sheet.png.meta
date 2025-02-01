@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponUziAmmoBig_Color-Sheet_0: -2473653002288718402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

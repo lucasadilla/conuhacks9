@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconFire_Color-Sheet_0: 6145686670602697676
+      IconFire_Color-Sheet_1: 6092469165757343914
+      IconFire_Color-Sheet_2: -1308346830146568763
+      IconFire_Color-Sheet_3: -11043111979529946
+      IconFire_Color-Sheet_4: 2411495844622512881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

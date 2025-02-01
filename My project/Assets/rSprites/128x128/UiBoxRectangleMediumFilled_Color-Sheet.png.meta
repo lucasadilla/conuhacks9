@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UiBoxRectangleMediumFilled_Color-Sheet_0: -430701967586701813
+      UiBoxRectangleMediumFilled_Color-Sheet_1: 2911502803050188264
+      UiBoxRectangleMediumFilled_Color-Sheet_2: 7142988629885978668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

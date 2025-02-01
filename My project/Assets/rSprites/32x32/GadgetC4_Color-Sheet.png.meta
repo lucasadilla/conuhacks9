@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GadgetC4_Color-Sheet_0: 1738647096113298519
+      GadgetC4_Color-Sheet_1: -7999132967893463747
+      GadgetC4_Color-Sheet_2: -9200686585870790865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

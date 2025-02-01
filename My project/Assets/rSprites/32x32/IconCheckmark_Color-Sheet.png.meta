@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconCheckmark_Color-Sheet_0: -8386764960225530704
+      IconCheckmark_Color-Sheet_1: -3237325369738826423
+      IconCheckmark_Color-Sheet_2: 1327004578085297585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

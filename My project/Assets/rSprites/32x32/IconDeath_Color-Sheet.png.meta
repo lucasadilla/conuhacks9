@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconDeath_Color-Sheet_0: -576986158649337392
+      IconDeath_Color-Sheet_1: 4606808405607862780
+      IconDeath_Color-Sheet_2: -4506056052411851180
+      IconDeath_Color-Sheet_3: 3668331121126502164
+      IconDeath_Color-Sheet_4: 8874738989585101817
+      IconDeath_Color-Sheet_5: 7905707936519786311
+      IconDeath_Color-Sheet_6: 5874303138941684035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

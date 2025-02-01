@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconCross_Color-Sheet_0: 2056093697384854039
+      IconCross_Color-Sheet_1: 6961624815900695623
+      IconCross_Color-Sheet_2: 4879267022955689843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

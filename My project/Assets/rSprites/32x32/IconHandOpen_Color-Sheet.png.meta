@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconHandOpen_Color-Sheet_0: -7462644136526072898
+      IconHandOpen_Color-Sheet_1: -1827478361389998892
+      IconHandOpen_Color-Sheet_2: 2095157395830459382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

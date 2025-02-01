@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapEnemy_Color-Sheet_0: -8319222918959726478
+      MapEnemy_Color-Sheet_1: -7608605386337239582
+      MapEnemy_Color-Sheet_2: -1501912816932962638
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

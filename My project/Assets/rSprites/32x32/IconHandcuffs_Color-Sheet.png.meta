@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconHandcuffs_Color-Sheet_0: -7064327413485522301
+      IconHandcuffs_Color-Sheet_1: 713498108255348769
+      IconHandcuffs_Color-Sheet_2: 5341062082610387783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

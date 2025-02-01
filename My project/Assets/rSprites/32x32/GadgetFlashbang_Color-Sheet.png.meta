@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GadgetFlashbang_Color-Sheet_0: -6283754441706804416
+      GadgetFlashbang_Color-Sheet_1: -5980373263202930639
+      GadgetFlashbang_Color-Sheet_2: -5010396725678875944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

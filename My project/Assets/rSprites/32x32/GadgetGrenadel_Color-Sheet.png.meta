@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GadgetGrenadel_Color-Sheet_0: -8832214985204193377
+      GadgetGrenadel_Color-Sheet_1: 7315209390473635148
+      GadgetGrenadel_Color-Sheet_2: -5041543190129792178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

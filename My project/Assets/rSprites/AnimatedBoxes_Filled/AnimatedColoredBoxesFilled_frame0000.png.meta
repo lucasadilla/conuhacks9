@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AnimatedColoredBoxesFilled_frame0000_0: 7193324875506771574
+      AnimatedColoredBoxesFilled_frame0000_1: 4032047239412941100
+      AnimatedColoredBoxesFilled_frame0000_10: -5545333780921625004
+      AnimatedColoredBoxesFilled_frame0000_11: -8995038438871414610
+      AnimatedColoredBoxesFilled_frame0000_2: 8768005831562194037
+      AnimatedColoredBoxesFilled_frame0000_3: -5654938879044858272
+      AnimatedColoredBoxesFilled_frame0000_4: -842368844490121611
+      AnimatedColoredBoxesFilled_frame0000_5: -1055241798547065818
+      AnimatedColoredBoxesFilled_frame0000_6: -1003725754662794790
+      AnimatedColoredBoxesFilled_frame0000_7: -1790261977139121608
+      AnimatedColoredBoxesFilled_frame0000_8: -4914798597266123728
+      AnimatedColoredBoxesFilled_frame0000_9: -5394979317599097777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

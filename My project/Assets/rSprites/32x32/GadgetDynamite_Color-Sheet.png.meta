@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GadgetDynamite_Color-Sheet_0: -7149934708047691126
+      GadgetDynamite_Color-Sheet_1: -8745240476157608052
+      GadgetDynamite_Color-Sheet_2: 8470020565849434523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

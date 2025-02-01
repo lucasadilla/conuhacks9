@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponM1GarandAmmoSmall_Color-Sheet_0: -224770591368860735
+      WeaponM1GarandAmmoSmall_Color-Sheet_1: 2598659953087451274
+      WeaponM1GarandAmmoSmall_Color-Sheet_2: -8935474046647815242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

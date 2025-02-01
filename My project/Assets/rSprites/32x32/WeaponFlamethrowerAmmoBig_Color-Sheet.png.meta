@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponFlamethrowerAmmoBig_Color-Sheet_0: -130950579154740039
+      WeaponFlamethrowerAmmoBig_Color-Sheet_1: -3016845618996535180
+      WeaponFlamethrowerAmmoBig_Color-Sheet_2: -169893071634201717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

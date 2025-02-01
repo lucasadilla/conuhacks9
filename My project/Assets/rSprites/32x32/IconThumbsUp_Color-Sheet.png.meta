@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconThumbsUp_Color-Sheet_0: -8848301852612975888
+      IconThumbsUp_Color-Sheet_1: -1708212450145569065
+      IconThumbsUp_Color-Sheet_2: -5545246013213874765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

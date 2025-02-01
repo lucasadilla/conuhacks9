@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapRound_Color-Sheet_0: -8115033099064936094
+      MapRound_Color-Sheet_1: 4864349635789298983
+      MapRound_Color-Sheet_10: -7026669335519402186
+      MapRound_Color-Sheet_11: -1050658303221028661
+      MapRound_Color-Sheet_12: -2232725396869618785
+      MapRound_Color-Sheet_13: -4602738689901419393
+      MapRound_Color-Sheet_14: -688918797821900186
+      MapRound_Color-Sheet_15: -8322087455305749181
+      MapRound_Color-Sheet_16: -4187783626077521558
+      MapRound_Color-Sheet_17: 8339199998094459385
+      MapRound_Color-Sheet_18: -5445269894724459609
+      MapRound_Color-Sheet_19: -6289698013032560828
+      MapRound_Color-Sheet_2: 3759118940290324195
+      MapRound_Color-Sheet_20: 1274250839706660691
+      MapRound_Color-Sheet_3: 188746778217907700
+      MapRound_Color-Sheet_4: -755051143788745073
+      MapRound_Color-Sheet_5: -8930442822141503348
+      MapRound_Color-Sheet_6: -6683090427473500527
+      MapRound_Color-Sheet_7: -1877776990612909110
+      MapRound_Color-Sheet_8: -5715884839519781614
+      MapRound_Color-Sheet_9: -8716076815949719697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

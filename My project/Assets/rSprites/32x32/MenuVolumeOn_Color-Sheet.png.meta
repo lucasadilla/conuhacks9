@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MenuVolumeOn_Color-Sheet_0: 5235195340720677021
+      MenuVolumeOn_Color-Sheet_1: -1324557898331862266
+      MenuVolumeOn_Color-Sheet_2: 351480303250219177
+      MenuVolumeOn_Color-Sheet_3: -4208072043816737849
+      MenuVolumeOn_Color-Sheet_4: -8846993150872853162
+      MenuVolumeOn_Color-Sheet_5: -5864393883383949815
+      MenuVolumeOn_Color-Sheet_6: 2216842624718973159
+      MenuVolumeOn_Color-Sheet_7: 8719141554951872997
+      MenuVolumeOn_Color-Sheet_8: -4728062455756238495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

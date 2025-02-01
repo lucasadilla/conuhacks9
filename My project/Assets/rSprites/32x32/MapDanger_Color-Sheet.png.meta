@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapDanger_Color-Sheet_0: 5921581936530266318
+      MapDanger_Color-Sheet_1: 8318194118268417430
+      MapDanger_Color-Sheet_2: -3992830835467862773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

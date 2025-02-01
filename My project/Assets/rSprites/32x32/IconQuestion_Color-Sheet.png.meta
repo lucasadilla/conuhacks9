@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconQuestion_Color-Sheet_0: -4948496590472787894
+      IconQuestion_Color-Sheet_1: 2814475916224493999
+      IconQuestion_Color-Sheet_2: 5310583123879819078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconMoney_Color-Sheet_0: -4374267041280250526
+      IconMoney_Color-Sheet_1: -4850981772509163258
+      IconMoney_Color-Sheet_2: -1751510323899002817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

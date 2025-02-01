@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IconReload_Color-Sheet_0: -822069351556184833
+      IconReload_Color-Sheet_1: 4663383505539090393
+      IconReload_Color-Sheet_2: -1166538835365203156
+      IconReload_Color-Sheet_3: 6274982194548959986
+      IconReload_Color-Sheet_4: -5376503737916247916
+      IconReload_Color-Sheet_5: -132357393588582082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
