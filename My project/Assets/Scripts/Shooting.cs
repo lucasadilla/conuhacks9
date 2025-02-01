@@ -25,24 +25,24 @@ public class Shooting
         mousePosition.z = 0; // Ensure the z-coordinate is 0 for 2D
 
         // Calculate the direction from the player to the mouse position
-        Vector2 direction = (mousePosition - transform.position).normalized;
+        //Vector2 direction = (mousePosition - transform.position).normalized;
 
         // Calculate the angle to rotate the player
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
         // Rotate the player to face the mouse position
-        transform.rotation = Quaternion.Euler(0, 0, angle);
+        //transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 
     void Shoot()
     {
         // Instantiate the bullet at the fire point position and rotation
-        GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        //GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
 
         // Get the Rigidbody2D component of the bullet
-        Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
+        //Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
 
         // Apply force to the bullet in the direction of the fire point
-        rb.AddForce(firePoint.right * bulletForce, ForceMode2D.Impulse);
+        //rb.AddForce(firePoint.right * bulletForce, ForceMode2D.Impulse);
     }
 }
