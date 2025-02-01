@@ -1,7 +1,8 @@
+using System.Globalization;
 using Unity.Netcode;
 using UnityEngine;
 
-public class PlayerMovement : NetworkBehaviour
+public class NetworkMove : NetworkBehaviour
 {
     public float movspeed;
     public Rigidbody2D body;
