@@ -19,7 +19,7 @@ public class PlayerMovement : NetworkBehaviour
     }
     void Update()
     {
-        if (!IsOwner) return;
+        if (!IsOwner && FindFirstObjectByType<NetworkManager>() != null) return;
         speedX = Input. GetAxisRaw("Horizontal") * speed;
         speedY = Input. GetAxisRaw ("Vertical") * speed;
         body.linearVelocity = new Vector2 (speedX , speedY);
